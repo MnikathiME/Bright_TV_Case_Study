@@ -1,0 +1,1001 @@
+UserID;Province;Gender;Race;Age;Channel;Age_Group;Record_Date;Record_Time;Time_Of_Day;Duration_Time;Day_Name;Month_Name
+808923;Eastern Cape;male;other;23;SuperSport Blitz;Adult;2016/02/21;20:03:00;Night;01:31:12;Sun;Feb
+808923;Eastern Cape;male;other;23;Trace TV;Adult;2016/02/17;20:45:00;Night;01:43:21;Wed;Feb
+630977;Gauteng;male;coloured;28;Trace TV;Adult;2016/01/16;11:52:00;Morning;01:30:15;Sat;Jan
+850656;Mpumalanga;male;black;26;Africa Magic;Adult;2016/03/05;23:12:00;Night;01:30:16;Sat;Mar
+850656;Mpumalanga;male;black;26;Channel O;Adult;2016/03/06;07:25:00;Morning;01:30:00;Sun;Mar
+850656;Mpumalanga;male;black;26;Africa Magic;Adult;2016/03/06;09:09:00;Morning;01:30:00;Sun;Mar
+2368365;Limpopo;male;coloured;27;ICC Cricket World Cup 2011;Adult;2016/03/30;13:17:00;Midday;02:08:12;Wed;Mar
+1106115;Western Cape;female;black;26;Africa Magic;Adult;2016/01/11;18:06:00;Afternoon;01:36:25;Mon;Jan
+1106115;Western Cape;female;black;26;Trace TV;Adult;2016/01/11;17:33:00;Afternoon;01:35:57;Mon;Jan
+820387;Limpopo;male;black;15;SuperSport Blitz;Teenager;2016/01/27;15:54:00;Midday;01:42:08;Wed;Jan
+820387;Limpopo;male;black;15;Cartoon Network;Teenager;2016/01/27;11:52:00;Morning;01:31:27;Wed;Jan
+820387;Limpopo;male;black;15;Channel O;Teenager;2016/01/25;12:07:00;Midday;01:30:57;Mon;Jan
+820387;Limpopo;male;black;15;SuperSport Blitz;Teenager;2016/01/26;21:30:00;Night;01:37:30;Tue;Jan
+808984;Western Cape;male;coloured;42;kykNET;Adult;2016/02/19;17:58:00;Afternoon;01:31:57;Fri;Feb
+778615;None;None;None;0;Channel O;Children;2016/03/12;17:45:00;Afternoon;01:33:45;Sat;Mar
+939662;Mpumalanga;male;black;23;ICC Cricket World Cup 2011;Adult;2016/03/30;14:48:00;Midday;01:32:10;Wed;Mar
+2359733;Gauteng;male;black;43;Channel O;Adult;2016/01/26;23:50:00;Night;01:38:33;Tue;Jan
+866215;Kwazulu Natal;male;black;22;Trace TV;Adult;2016/03/07;18:00:00;Afternoon;01:34:03;Mon;Mar
+803575;Eastern Cape;male;indian_asian;27;Supersport Live Events;Adult;2016/02/19;11:08:00;Morning;01:30:22;Fri;Feb
+803575;Eastern Cape;male;indian_asian;27;Supersport Live Events;Adult;2016/01/31;11:46:00;Morning;01:57:16;Sun;Jan
+803575;Eastern Cape;male;indian_asian;27;Supersport Live Events;Adult;2016/01/23;12:34:00;Midday;02:09:16;Sat;Jan
+2090538;Gauteng;male;indian_asian;39;ICC Cricket World Cup 2011;Adult;2016/03/30;16:58:00;Afternoon;01:59:56;Wed;Mar
+779471;Eastern Cape;male;black;28;Boomerang;Adult;2016/02/10;08:38:00;Morning;01:41:09;Wed;Feb
+788744;Western Cape;male;coloured;23;SuperSport Blitz;Adult;2016/01/15;01:09:00;Morning;01:32:30;Fri;Jan
+788744;Western Cape;male;coloured;23;Supersport Live Events;Adult;2016/01/18;11:35:00;Morning;01:30:52;Mon;Jan
+2285664;Mpumalanga;male;indian_asian;28;SuperSport Blitz;Adult;2016/03/25;09:26:00;Morning;01:30:00;Fri;Mar
+2285664;Mpumalanga;male;indian_asian;28;ICC Cricket World Cup 2011;Adult;2016/03/26;12:02:00;Midday;02:36:24;Sat;Mar
+720398;Gauteng;female;coloured;28;DStv Events 1;Adult;2016/01/20;19:22:00;Afternoon;01:31:05;Wed;Jan
+930094;Free State;male;other;26;ICC Cricket World Cup 2011;Adult;2016/03/29;12:17:00;Midday;01:31:24;Tue;Mar
+930094;Free State;male;other;26;Trace TV;Adult;2016/03/29;17:32:00;Afternoon;01:31:00;Tue;Mar
+789241;Northern Cape;male;coloured;25;Boomerang;Adult;2016/02/13;10:22:00;Morning;01:31:58;Sat;Feb
+771927;Western Cape;female;None;36;Supersport Live Events;Adult;2016/01/31;11:08:00;Morning;01:48:14;Sun;Jan
+771927;Western Cape;female;None;36;CNN;Adult;2016/01/29;18:32:00;Afternoon;01:30:58;Fri;Jan
+771927;Western Cape;female;None;36;SuperSport Blitz;Adult;2016/01/28;15:00:00;Midday;01:47:14;Thu;Jan
+771927;Western Cape;female;None;36;Supersport Live Events;Adult;2016/02/01;10:12:00;Morning;06:19:00;Mon;Feb
+771927;Western Cape;female;None;36;Supersport Live Events;Adult;2016/01/27;16:14:00;Afternoon;01:31:18;Wed;Jan
+771927;Western Cape;female;None;36;SuperSport Blitz;Adult;2016/01/27;07:55:00;Morning;01:32:26;Wed;Jan
+771927;Western Cape;female;None;36;Cartoon Network;Adult;2016/01/30;18:39:00;Afternoon;01:31:38;Sat;Jan
+904340;Gauteng;male;indian_asian;28;E! Entertainment;Adult;2016/03/27;19:38:00;Afternoon;01:30:42;Sun;Mar
+904340;Gauteng;male;indian_asian;28;Vuzu;Adult;2016/03/27;19:45:00;Afternoon;01:30:22;Sun;Mar
+904340;Gauteng;male;indian_asian;28;E! Entertainment;Adult;2016/03/26;23:29:00;Night;01:30:00;Sat;Mar
+809079;Mpumalanga;male;black;30;Cartoon Network;Adult;2016/02/22;21:08:00;Night;01:30:08;Mon;Feb
+809079;Mpumalanga;male;black;30;Africa Magic;Adult;2016/02/21;15:27:00;Midday;01:30:16;Sun;Feb
+809079;Mpumalanga;male;black;30;Boomerang;Adult;2016/02/21;19:15:00;Afternoon;01:30:18;Sun;Feb
+809079;Mpumalanga;male;black;30;SuperSport Blitz;Adult;2016/02/21;19:22:00;Afternoon;01:30:42;Sun;Feb
+819358;Western Cape;male;white;39;Trace TV;Adult;2016/02/26;22:38:00;Night;01:30:45;Fri;Feb
+819358;Western Cape;male;white;39;ICC Cricket World Cup 2011;Adult;2016/03/02;13:59:00;Midday;01:35:12;Wed;Mar
+819358;Western Cape;male;white;39;Supersport Live Events;Adult;2016/03/19;18:24:00;Afternoon;01:33:20;Sat;Mar
+242356;Gauteng;male;white;30;ICC Cricket World Cup 2011;Adult;2016/03/01;11:03:00;Morning;01:30:00;Tue;Mar
+830921;Eastern Cape;male;white;22;Trace TV;Adult;2016/03/03;21:24:00;Night;01:31:15;Thu;Mar
+866295;Gauteng;male;None;43;ICC Cricket World Cup 2011;Adult;2016/03/15;13:01:00;Midday;02:16:48;Tue;Mar
+173765;None;None;None;0;Trace TV;Children;2016/01/08;09:29:00;Morning;01:31:03;Fri;Jan
+764468;Gauteng;male;black;34;Channel O;Adult;2016/02/02;08:59:00;Morning;01:32:09;Tue;Feb
+724179;Gauteng;female;black;21;Channel O;Adult;2016/01/20;20:49:00;Night;01:40:51;Wed;Jan
+865440;Gauteng;male;indian_asian;31;Supersport Live Events;Adult;2016/03/14;10:35:00;Morning;01:51:28;Mon;Mar
+865440;Gauteng;male;indian_asian;31;ICC Cricket World Cup 2011;Adult;2016/03/14;12:28:00;Midday;01:36:10;Mon;Mar
+892643;Western Cape;male;coloured;28;Cartoon Network;Adult;2016/03/13;12:16:00;Midday;01:51:24;Sun;Mar
+892643;Western Cape;male;coloured;28;SuperSport Blitz;Adult;2016/03/13;14:10:00;Midday;01:30:08;Sun;Mar
+892643;Western Cape;male;coloured;28;Boomerang;Adult;2016/01/02;02:24:00;Morning;05:02:21;Sat;Jan
+892643;Western Cape;male;coloured;28;Cartoon Network;Adult;2016/01/04;06:42:00;Morning;01:32:42;Mon;Jan
+892643;Western Cape;male;coloured;28;Cartoon Network;Adult;2016/01/19;21:40:00;Night;01:34:12;Tue;Jan
+771978;Kwazulu Natal;male;black;23;Boomerang;Adult;2016/02/05;05:06:00;Morning;01:30:31;Fri;Feb
+820573;Gauteng;male;white;32;Boomerang;Adult;2016/02/26;19:06:00;Afternoon;01:30:20;Fri;Feb
+820573;Gauteng;male;white;32;ICC Cricket World Cup 2011;Adult;2016/03/02;12:04:00;Midday;02:25:08;Wed;Mar
+820573;Gauteng;male;white;32;SawSee;Adult;2016/02/28;21:16:00;Night;01:30:57;Sun;Feb
+2420497;Western Cape;male;coloured;22;Trace TV;Adult;2016/01/10;21:58:00;Night;02:17:54;Sun;Jan
+82389;None;None;None;0;DStv Events 1;Children;2016/01/08;13:33:00;Midday;01:39:30;Fri;Jan
+809148;Limpopo;male;indian_asian;35;ICC Cricket World Cup 2011;Adult;2016/03/13;15:17:00;Midday;01:39:58;Sun;Mar
+809148;Limpopo;male;indian_asian;35;Trace TV;Adult;2016/02/21;00:40:00;Morning;01:34:45;Sun;Feb
+809148;Limpopo;male;indian_asian;35;ICC Cricket World Cup 2011;Adult;2016/02/27;12:40:00;Midday;02:13:22;Sat;Feb
+2429528;Gauteng;male;None;30;E! Entertainment;Adult;2016/03/31;23:47:00;Night;01:30:58;Thu;Mar
+2429528;Gauteng;male;None;30;Supersport Live Events;Adult;2016/03/30;07:51:00;Morning;01:31:16;Wed;Mar
+2429528;Gauteng;male;None;30;ICC Cricket World Cup 2011;Adult;2016/03/30;07:51:00;Morning;01:30:22;Wed;Mar
+2429528;Gauteng;male;None;30;SuperSport Blitz;Adult;2016/03/30;18:17:00;Afternoon;01:32:20;Wed;Mar
+2429528;Gauteng;male;None;30;Boomerang;Adult;2016/03/30;12:30:00;Midday;01:30:25;Wed;Mar
+2429528;Gauteng;male;None;30;Cartoon Network;Adult;2016/03/25;18:26:00;Afternoon;01:30:11;Fri;Mar
+2429528;Gauteng;male;None;30;DStv Events 1;Adult;2016/03/25;15:51:00;Midday;01:30:30;Fri;Mar
+2429528;Gauteng;male;None;30;Trace TV;Adult;2016/03/29;07:06:00;Morning;01:30:39;Tue;Mar
+45769;None;None;None;0;ICC Cricket World Cup 2011;Children;2016/03/12;13:28:00;Midday;01:31:44;Sat;Mar
+924896;Gauteng;male;indian_asian;25;ICC Cricket World Cup 2011;Adult;2016/03/30;12:23:00;Midday;02:31:38;Wed;Mar
+894417;None;None;None;0;Trace TV;Children;2016/03/28;12:23:00;Midday;01:30:00;Mon;Mar
+894417;None;None;None;0;E! Entertainment;Children;2016/03/24;07:48:00;Morning;01:31:02;Thu;Mar
+772052;Western Cape;male;coloured;32;Supersport Live Events;Adult;2016/03/20;18:26:00;Afternoon;01:30:00;Sun;Mar
+772052;Western Cape;male;coloured;32;Supersport Live Events;Adult;2016/03/26;16:38:00;Afternoon;02:15:32;Sat;Mar
+898831;Gauteng;male;white;26;ICC Cricket World Cup 2011;Adult;2016/03/23;12:07:00;Midday;01:30:00;Wed;Mar
+788922;Western Cape;male;coloured;52;ICC Cricket World Cup 2011;Adult;2016/03/05;18:03:00;Afternoon;01:30:52;Sat;Mar
+788922;Western Cape;male;coloured;52;ICC Cricket World Cup 2011;Adult;2016/02/27;18:06:00;Afternoon;01:31:52;Sat;Feb
+809231;Gauteng;male;black;45;CNN;Adult;2016/02/22;15:13:00;Midday;01:33:44;Mon;Feb
+809231;Gauteng;male;black;45;CNN;Adult;2016/02/26;12:51:00;Midday;01:31:16;Fri;Feb
+809231;Gauteng;male;black;45;CNN;Adult;2016/03/22;13:10:00;Midday;01:31:45;Tue;Mar
+809231;Gauteng;male;black;45;SuperSport Blitz;Adult;2016/02/14;17:31:00;Afternoon;01:32:06;Sun;Feb
+809231;Gauteng;male;black;45;CNN;Adult;2016/03/24;17:44:00;Afternoon;01:33:45;Thu;Mar
+809231;Gauteng;male;black;45;CNN;Adult;2016/02/16;08:48:00;Morning;01:42:28;Tue;Feb
+809231;Gauteng;male;black;45;Cartoon Network;Adult;2016/02/04;13:18:00;Midday;01:30:48;Thu;Feb
+809231;Gauteng;male;black;45;Channel O;Adult;2016/02/10;15:22:00;Midday;01:37:57;Wed;Feb
+809231;Gauteng;male;black;45;CNN;Adult;2016/03/23;10:45:00;Morning;01:33:28;Wed;Mar
+809231;Gauteng;male;black;45;Supersport Live Events;Adult;2016/03/05;22:37:00;Night;01:32:50;Sat;Mar
+809231;Gauteng;male;black;45;CNN;Adult;2016/02/06;14:22:00;Midday;01:32:56;Sat;Feb
+809231;Gauteng;male;black;45;ICC Cricket World Cup 2011;Adult;2016/03/20;10:44:00;Morning;01:35:56;Sun;Mar
+809231;Gauteng;male;black;45;SuperSport Blitz;Adult;2016/02/27;11:10:00;Morning;01:37:06;Sat;Feb
+809231;Gauteng;male;black;45;Trace TV;Adult;2016/02/23;06:58:00;Morning;01:35:15;Tue;Feb
+809231;Gauteng;male;black;45;CNN;Adult;2016/02/23;07:31:00;Morning;01:47:22;Tue;Feb
+809231;Gauteng;male;black;45;E! Entertainment;Adult;2016/03/30;17:57:00;Afternoon;01:30:26;Wed;Mar
+2203633;Eastern Cape;male;white;70;E! Entertainment;Old_Age;2016/02/16;18:29:00;Afternoon;01:31:26;Tue;Feb
+790685;Kwazulu Natal;male;black;29;Africa Magic;Adult;2016/02/14;09:36:00;Morning;01:30:02;Sun;Feb
+872104;Western Cape;male;coloured;24;Supersport Live Events;Adult;2016/03/19;20:08:00;Night;01:30:00;Sat;Mar
+924949;Gauteng;male;indian_asian;27;ICC Cricket World Cup 2011;Adult;2016/03/30;13:40:00;Midday;01:30:00;Wed;Mar
+820737;None;None;None;0;Supersport Live Events;Children;2016/03/18;08:35:00;Morning;01:38:30;Fri;Mar
+779656;Gauteng;female;black;29;Trace TV;Adult;2016/01/15;09:57:00;Morning;01:39:09;Fri;Jan
+779656;Gauteng;female;black;29;Africa Magic;Adult;2016/01/24;18:32:00;Afternoon;01:30:00;Sun;Jan
+779656;Gauteng;female;black;29;Africa Magic;Adult;2016/01/24;22:10:00;Night;01:30:00;Sun;Jan
+779656;Gauteng;female;black;29;Africa Magic;Adult;2016/02/09;21:34:00;Night;01:30:00;Tue;Feb
+779656;Gauteng;female;black;29;Africa Magic;Adult;2016/02/08;21:51:00;Night;01:30:00;Mon;Feb
+779656;Gauteng;female;black;29;Africa Magic;Adult;2016/02/08;20:28:00;Night;02:02:29;Mon;Feb
+2426146;Western Cape;female;coloured;35;SuperSport Blitz;Adult;2016/03/06;17:29:00;Afternoon;01:31:58;Sun;Mar
+2426146;Western Cape;female;coloured;35;Trace TV;Adult;2016/03/10;12:17:00;Midday;01:42:51;Thu;Mar
+2420731;Gauteng;male;black;43;Channel O;Adult;2016/03/22;19:26:00;Afternoon;01:43:42;Tue;Mar
+809284;Western Cape;male;white;32;ICC Cricket World Cup 2011;Adult;2016/02/22;14:32:00;Midday;01:37:06;Mon;Feb
+809284;Western Cape;male;white;32;ICC Cricket World Cup 2011;Adult;2016/02/25;16:18:00;Afternoon;01:30:14;Thu;Feb
+809286;Mpumalanga;male;white;35;SawSee;Adult;2016/03/06;09:32:00;Morning;01:44:05;Sun;Mar
+2368931;Limpopo;male;indian_asian;38;Boomerang;Adult;2016/02/20;11:25:00;Morning;01:31:32;Sat;Feb
+820770;Western Cape;male;coloured;36;Supersport Live Events;Adult;2016/03/24;14:47:00;Midday;02:29:14;Thu;Mar
+820770;Western Cape;male;coloured;36;Supersport Live Events;Adult;2016/02/25;11:47:00;Morning;01:42:42;Thu;Feb
+820770;Western Cape;male;coloured;36;ICC Cricket World Cup 2011;Adult;2016/02/27;18:41:00;Afternoon;01:45:08;Sat;Feb
+820770;Western Cape;male;coloured;36;ICC Cricket World Cup 2011;Adult;2016/03/12;18:18:00;Afternoon;01:31:38;Sat;Mar
+820770;Western Cape;male;coloured;36;ICC Cricket World Cup 2011;Adult;2016/03/03;05:48:00;Morning;01:31:20;Thu;Mar
+733347;North West;male;None;34;Channel O;Adult;2016/01/23;20:12:00;Night;01:45:48;Sat;Jan
+733347;North West;male;None;34;Africa Magic;Adult;2016/01/24;16:31:00;Afternoon;01:30:08;Sun;Jan
+733347;North West;male;None;34;Channel O;Adult;2016/01/23;19:29:00;Afternoon;01:30:39;Sat;Jan
+39353;None;None;None;0;Trace TV;Children;2016/01/05;03:54:00;Morning;01:33:30;Tue;Jan
+2092115;Mpumalanga;male;black;49;Boomerang;Adult;2016/02/13;19:37:00;Afternoon;01:35:29;Sat;Feb
+866540;Western Cape;male;coloured;33;Channel O;Adult;2016/03/08;21:30:00;Night;01:30:12;Tue;Mar
+940010;Gauteng;male;black;27;Supersport Live Events;Adult;2016/03/26;10:35:00;Morning;01:30:40;Sat;Mar
+773393;Western Cape;male;white;17;Boomerang;Teenager;2016/02/08;12:01:00;Midday;01:39:03;Mon;Feb
+809317;Western Cape;male;None;29;Cartoon Network;Adult;2016/02/21;14:46:00;Midday;01:31:28;Sun;Feb
+809317;Western Cape;male;None;29;M-Net;Adult;2016/02/20;22:11:00;Night;01:33:40;Sat;Feb
+809317;Western Cape;male;None;29;M-Net;Adult;2016/02/19;22:25:00;Night;01:30:49;Fri;Feb
+940027;Limpopo;male;None;111;Africa Magic;Old_Age;2016/03/30;09:34:00;Morning;01:30:09;Wed;Mar
+866564;Gauteng;male;indian_asian;30;Supersport Live Events;Adult;2016/03/24;10:59:00;Morning;01:38:14;Thu;Mar
+866564;Gauteng;male;indian_asian;30;ICC Cricket World Cup 2011;Adult;2016/03/20;13:15:00;Midday;01:41:18;Sun;Mar
+33773;None;None;None;0;ICC Cricket World Cup 2011;Children;2016/03/12;10:50:00;Morning;01:30:08;Sat;Mar
+886721;Gauteng;male;indian_asian;30;Boomerang;Adult;2016/03/22;01:43:00;Morning;01:30:21;Tue;Mar
+809331;Western Cape;male;indian_asian;49;SuperSport Blitz;Adult;2016/02/20;17:15:00;Afternoon;01:50:40;Sat;Feb
+809331;Western Cape;male;indian_asian;49;CNN;Adult;2016/02/14;17:14:00;Afternoon;01:30:00;Sun;Feb
+809331;Western Cape;male;indian_asian;49;Supersport Live Events;Adult;2016/02/24;18:27:00;Afternoon;01:30:24;Wed;Feb
+809331;Western Cape;male;indian_asian;49;ICC Cricket World Cup 2011;Adult;2016/02/24;18:04:00;Afternoon;01:34:24;Wed;Feb
+809331;Western Cape;male;indian_asian;49;SuperSport Blitz;Adult;2016/03/23;12:47:00;Midday;01:30:30;Wed;Mar
+809331;Western Cape;male;indian_asian;49;SuperSport Blitz;Adult;2016/03/25;20:09:00;Night;01:36:04;Fri;Mar
+869301;Eastern Cape;female;coloured;40;Trace TV;Adult;2016/03/07;14:35:00;Midday;01:36:57;Mon;Mar
+832147;Mpumalanga;male;black;40;Channel O;Adult;2016/03/02;17:04:00;Afternoon;01:56:36;Wed;Mar
+940064;Western Cape;male;coloured;45;Cartoon Network;Adult;2016/03/23;07:29:00;Morning;01:36:46;Wed;Mar
+793883;Northern Cape;male;coloured;32;Trace TV;Adult;2016/02/15;14:36:00;Midday;01:34:36;Mon;Feb
+789053;Gauteng;female;black;34;Boomerang;Adult;2016/01/28;23:38:00;Night;01:43:51;Thu;Jan
+866592;Gauteng;male;indian_asian;28;ICC Cricket World Cup 2011;Adult;2016/03/14;11:15:00;Morning;01:40:32;Mon;Mar
+866592;Gauteng;male;indian_asian;28;ICC Cricket World Cup 2011;Adult;2016/03/12;12:20:00;Midday;02:54:50;Sat;Mar
+866592;Gauteng;male;indian_asian;28;ICC Cricket World Cup 2011;Adult;2016/03/12;15:39:00;Midday;02:27:46;Sat;Mar
+930462;Western Cape;male;coloured;31;Boomerang;Adult;2016/03/31;21:26:00;Night;01:30:44;Thu;Mar
+809380;Free State;male;white;32;ICC Cricket World Cup 2011;Adult;2016/03/15;15:55:00;Midday;02:15:44;Tue;Mar
+866623;Western Cape;male;other;40;CNN;Adult;2016/03/11;00:15:00;Morning;01:41:32;Fri;Mar
+785456;Gauteng;female;white;41;E! Entertainment;Adult;2016/02/11;12:36:00;Midday;01:31:48;Thu;Feb
+809407;Limpopo;female;black;33;Africa Magic;Adult;2016/02/09;06:49:00;Morning;01:56:04;Tue;Feb
+1999958;Mpumalanga;male;indian_asian;24;ICC Cricket World Cup 2011;Adult;2016/03/19;11:03:00;Morning;01:59:08;Sat;Mar
+1999958;Mpumalanga;male;indian_asian;24;ICC Cricket World Cup 2011;Adult;2016/03/19;11:06:00;Morning;01:30:00;Sat;Mar
+803967;Kwazulu Natal;male;black;43;Boomerang;Adult;2016/01/06;20:23:00;Night;01:38:18;Wed;Jan
+803967;Kwazulu Natal;male;black;43;Trace TV;Adult;2016/01/07;19:36:00;Afternoon;01:30:00;Thu;Jan
+803967;Kwazulu Natal;male;black;43;Supersport Live Events;Adult;2016/01/08;16:49:00;Afternoon;03:51:52;Fri;Jan
+803967;Kwazulu Natal;male;black;43;Supersport Live Events;Adult;2016/01/31;11:05:00;Morning;01:32:00;Sun;Jan
+803967;Kwazulu Natal;male;black;43;Trace TV;Adult;2016/01/07;09:37:00;Morning;02:48:24;Thu;Jan
+926675;Kwazulu Natal;male;indian_asian;27;ICC Cricket World Cup 2011;Adult;2016/03/30;10:50:00;Morning;01:44:58;Wed;Mar
+866660;North West;male;black;20;ICC Cricket World Cup 2011;Adult;2016/03/13;15:30:00;Midday;01:31:04;Sun;Mar
+809424;Western Cape;female;coloured;24;E! Entertainment;Adult;2016/02/22;20:59:00;Night;01:30:40;Mon;Feb
+803990;Free State;female;black;27;Supersport Live Events;Adult;2016/02/20;14:54:00;Midday;01:32:26;Sat;Feb
+803990;Free State;female;black;27;Africa Magic;Adult;2016/02/18;16:27:00;Afternoon;01:33:51;Thu;Feb
+940154;Gauteng;male;indian_asian;35;ICC Cricket World Cup 2011;Adult;2016/03/18;15:48:00;Midday;01:40:44;Fri;Mar
+940154;Gauteng;male;indian_asian;35;SuperSport Blitz;Adult;2016/03/19;10:22:00;Morning;01:30:16;Sat;Mar
+940154;Gauteng;male;indian_asian;35;SawSee;Adult;2016/03/26;20:48:00;Night;01:30:34;Sat;Mar
+772276;Eastern Cape;male;black;44;Supersport Live Events;Adult;2016/02/02;18:51:00;Afternoon;01:33:18;Tue;Feb
+772277;Mpumalanga;male;black;48;Africa Magic;Adult;2016/03/12;21:02:00;Night;01:30:06;Sat;Mar
+905271;Eastern Cape;male;coloured;35;Supersport Live Events;Adult;2016/03/04;10:20:00;Morning;01:34:24;Fri;Mar
+809449;Kwazulu Natal;male;coloured;24;Boomerang;Adult;2016/02/21;10:27:00;Morning;01:31:37;Sun;Feb
+809449;Kwazulu Natal;male;coloured;24;Cartoon Network;Adult;2016/02/24;17:58:00;Afternoon;01:31:47;Wed;Feb
+930568;Gauteng;male;indian_asian;27;CNN;Adult;2016/03/28;18:58:00;Afternoon;01:31:05;Mon;Mar
+930568;Gauteng;male;indian_asian;27;SuperSport Blitz;Adult;2016/03/29;08:15:00;Morning;01:32:14;Tue;Mar
+940176;Eastern Cape;male;black;31;Supersport Live Events;Adult;2016/01/06;11:26:00;Morning;01:40:38;Wed;Jan
+1107089;Western Cape;male;white;33;DStv Events 1;Adult;2016/01/21;20:03:00;Night;01:31:30;Thu;Jan
+2287279;Gauteng;male;white;27;Cartoon Network;Adult;2016/02/02;22:45:00;Night;01:55:42;Tue;Feb
+809486;Gauteng;male;white;25;CNN;Adult;2016/02/22;09:14:00;Morning;01:37:11;Mon;Feb
+893029;Western Cape;male;None;43;Supersport Live Events;Adult;2016/03/24;17:30:00;Afternoon;02:32:10;Thu;Mar
+893029;Western Cape;male;None;43;ICC Cricket World Cup 2011;Adult;2016/03/20;17:37:00;Afternoon;01:36:20;Sun;Mar
+893029;Western Cape;male;None;43;Supersport Live Events;Adult;2016/03/24;10:37:00;Morning;02:26:42;Thu;Mar
+806823;Gauteng;male;black;37;Africa Magic;Adult;2016/02/21;10:20:00;Morning;01:30:25;Sun;Feb
+930671;Gauteng;male;indian_asian;44;Cartoon Network;Adult;2016/03/31;18:39:00;Afternoon;01:30:12;Thu;Mar
+930671;Gauteng;male;indian_asian;44;E! Entertainment;Adult;2016/03/30;19:53:00;Afternoon;01:31:06;Wed;Mar
+940290;Gauteng;male;None;67;CNN;Old_Age;2016/03/13;19:12:00;Afternoon;01:32:28;Sun;Mar
+940290;Gauteng;male;None;67;ICC Cricket World Cup 2011;Old_Age;2016/03/16;16:19:00;Afternoon;03:39:54;Wed;Mar
+851376;Eastern Cape;male;white;19;ICC Cricket World Cup 2011;Teenager;2016/03/09;12:45:00;Midday;01:31:54;Wed;Mar
+793041;North West;male;black;40;Africa Magic;Adult;2016/02/16;13:48:00;Midday;01:31:11;Tue;Feb
+789241;Northern Cape;male;coloured;25;Channel O;Adult;2016/02/21;11:20:00;Morning;01:30:15;Sun;Feb
+789244;North West;male;black;19;E! Entertainment;Teenager;2016/02/12;12:21:00;Midday;01:30:10;Fri;Feb
+819656;Western Cape;male;black;45;Africa Magic;Adult;2016/02/26;20:39:00;Night;01:31:05;Fri;Feb
+786607;Western Cape;male;coloured;45;Supersport Live Events;Adult;2016/02/11;19:11:00;Afternoon;01:32:54;Thu;Feb
+919808;Eastern Cape;male;black;20;M-Net;Adult;2016/03/25;13:47:00;Midday;01:30:53;Fri;Mar
+590330;Mpumalanga;male;white;18;Boomerang;Teenager;2016/01/07;01:13:00;Morning;01:36:04;Thu;Jan
+809604;Western Cape;male;black;24;Trace TV;Adult;2016/02/21;00:50:00;Morning;01:45:48;Sun;Feb
+809604;Western Cape;male;black;24;Trace TV;Adult;2016/02/21;08:32:00;Morning;01:31:30;Sun;Feb
+809604;Western Cape;male;black;24;Boomerang;Adult;2016/03/18;22:54:00;Night;01:38:30;Fri;Mar
+809604;Western Cape;male;black;24;Boomerang;Adult;2016/03/18;23:24:00;Night;01:56:11;Fri;Mar
+809604;Western Cape;male;black;24;Trace TV;Adult;2016/02/07;21:13:00;Night;01:34:39;Sun;Feb
+809604;Western Cape;male;black;24;Cartoon Network;Adult;2016/02/28;17:22:00;Afternoon;01:30:36;Sun;Feb
+809604;Western Cape;male;black;24;Trace TV;Adult;2016/03/01;07:44:00;Morning;01:30:36;Tue;Mar
+940343;Mpumalanga;male;black;39;Channel O;Adult;2016/03/29;10:02:00;Morning;01:32:45;Tue;Mar
+2415044;Northern Cape;male;indian_asian;24;ICC Cricket World Cup 2011;Adult;2016/03/29;15:20:00;Midday;01:48:26;Tue;Mar
+804168;Gauteng;male;coloured;42;Channel O;Adult;2016/02/19;19:34:00;Afternoon;01:31:42;Fri;Feb
+772449;Gauteng;male;white;25;Supersport Live Events;Adult;2016/01/23;17:25:00;Afternoon;01:31:32;Sat;Jan
+789309;Western Cape;male;coloured;48;SuperSport Blitz;Adult;2016/02/21;21:32:00;Night;01:46:52;Sun;Feb
+789309;Western Cape;male;coloured;48;SuperSport Blitz;Adult;2016/03/24;19:57:00;Afternoon;01:30:24;Thu;Mar
+789309;Western Cape;male;coloured;48;ICC Cricket World Cup 2011;Adult;2016/03/14;09:14:00;Morning;01:30:22;Mon;Mar
+789309;Western Cape;male;coloured;48;SuperSport Blitz;Adult;2016/02/27;19:13:00;Afternoon;01:30:34;Sat;Feb
+789309;Western Cape;male;coloured;48;Supersport Live Events;Adult;2016/02/12;11:57:00;Morning;01:30:22;Fri;Feb
+789309;Western Cape;male;coloured;48;SuperSport Blitz;Adult;2016/03/26;09:27:00;Morning;01:31:46;Sat;Mar
+821206;Gauteng;male;white;41;ICC Cricket World Cup 2011;Adult;2016/02/24;15:52:00;Midday;01:32:34;Wed;Feb
+866891;Kwazulu Natal;male;indian_asian;37;SuperSport Blitz;Adult;2016/03/12;16:55:00;Afternoon;01:30:24;Sat;Mar
+866891;Kwazulu Natal;male;indian_asian;37;Boomerang;Adult;2016/03/09;17:21:00;Afternoon;01:30:51;Wed;Mar
+809648;Western Cape;male;black;18;Supersport Live Events;Teenager;2016/02/20;14:41:00;Midday;01:32:26;Sat;Feb
+809648;Western Cape;male;black;18;CNN;Teenager;2016/02/21;07:31:00;Morning;01:45:50;Sun;Feb
+866901;Gauteng;male;white;39;SuperSport Blitz;Adult;2016/03/18;10:58:00;Morning;01:42:28;Fri;Mar
+866901;Gauteng;male;white;39;SuperSport Blitz;Adult;2016/03/31;11:25:00;Morning;01:40:06;Thu;Mar
+866901;Gauteng;male;white;39;E! Entertainment;Adult;2016/03/29;18:35:00;Afternoon;01:37:52;Tue;Mar
+772477;Kwazulu Natal;female;black;35;Africa Magic;Adult;2016/02/02;15:59:00;Midday;01:30:55;Tue;Feb
+772477;Kwazulu Natal;female;black;35;Boomerang;Adult;2016/01/04;07:16:00;Morning;02:00:49;Mon;Jan
+772477;Kwazulu Natal;female;black;35;Channel O;Adult;2016/01/07;13:00:00;Midday;02:38:27;Thu;Jan
+772477;Kwazulu Natal;female;black;35;Africa Magic;Adult;2016/01/05;14:11:00;Midday;01:30:00;Tue;Jan
+772477;Kwazulu Natal;female;black;35;Cartoon Network;Adult;2016/01/04;06:40:00;Morning;01:31:12;Mon;Jan
+772477;Kwazulu Natal;female;black;35;Trace TV;Adult;2016/01/18;06:19:00;Morning;02:18:15;Mon;Jan
+772477;Kwazulu Natal;female;black;35;Channel O;Adult;2016/01/04;09:51:00;Morning;01:35:54;Mon;Jan
+772477;Kwazulu Natal;female;black;35;Channel O;Adult;2016/01/13;18:30:00;Afternoon;02:14:09;Wed;Jan
+772477;Kwazulu Natal;female;black;35;E! Entertainment;Adult;2016/01/20;05:42:00;Morning;01:43:18;Wed;Jan
+772477;Kwazulu Natal;female;black;35;Africa Magic;Adult;2016/01/15;07:17:00;Morning;01:30:32;Fri;Jan
+772477;Kwazulu Natal;female;black;35;Channel O;Adult;2016/02/03;20:05:00;Night;01:42:03;Wed;Feb
+779980;Eastern Cape;male;coloured;46;Africa Magic;Adult;2016/02/04;08:34:00;Morning;01:30:49;Thu;Feb
+817992;Kwazulu Natal;male;black;46;Africa Magic;Adult;2016/02/24;13:37:00;Midday;01:30:33;Wed;Feb
+817992;Kwazulu Natal;male;black;46;Africa Magic;Adult;2016/02/25;15:54:00;Midday;01:30:18;Thu;Feb
+940434;Western Cape;male;coloured;21;Cartoon Network;Adult;2016/03/31;02:03:00;Morning;01:30:00;Thu;Mar
+940434;Western Cape;male;coloured;21;Boomerang;Adult;2016/03/31;08:40:00;Morning;01:30:00;Thu;Mar
+940434;Western Cape;male;coloured;21;Boomerang;Adult;2016/03/31;14:59:00;Midday;01:30:00;Thu;Mar
+940434;Western Cape;male;coloured;21;Cartoon Network;Adult;2016/03/30;20:15:00;Night;01:30:00;Wed;Mar
+940434;Western Cape;male;coloured;21;DStv Events 1;Adult;2016/03/29;22:17:00;Night;01:31:40;Tue;Mar
+2204160;Mpumalanga;male;None;34;CNN;Adult;2016/03/02;21:23:00;Night;02:07:20;Wed;Mar
+2204160;Mpumalanga;male;None;34;ICC Cricket World Cup 2011;Adult;2016/02/25;12:36:00;Midday;01:39:02;Thu;Feb
+2204160;Mpumalanga;male;None;34;Supersport Live Events;Adult;2016/01/05;15:02:00;Midday;01:30:00;Tue;Jan
+2204160;Mpumalanga;male;None;34;CNN;Adult;2016/01/12;17:50:00;Afternoon;01:37:28;Tue;Jan
+2204160;Mpumalanga;male;None;34;ICC Cricket World Cup 2011;Adult;2016/03/07;14:55:00;Midday;03:08:10;Mon;Mar
+2204160;Mpumalanga;male;None;34;ICC Cricket World Cup 2011;Adult;2016/02/23;16:14:00;Afternoon;02:49:08;Tue;Feb
+2204160;Mpumalanga;male;None;34;ICC Cricket World Cup 2011;Adult;2016/02/28;14:18:00;Midday;01:31:34;Sun;Feb
+2426887;Gauteng;male;indian_asian;40;ICC Cricket World Cup 2011;Adult;2016/03/30;16:10:00;Afternoon;01:30:36;Wed;Mar
+832504;Gauteng;male;white;25;Supersport Live Events;Adult;2016/03/05;17:19:00;Afternoon;01:34:58;Sat;Mar
+832504;Gauteng;male;white;25;Supersport Live Events;Adult;2016/02/18;10:01:00;Morning;01:34:06;Thu;Feb
+772529;Gauteng;male;black;27;Supersport Live Events;Adult;2016/02/26;14:40:00;Midday;01:30:54;Fri;Feb
+772529;Gauteng;male;black;27;Cartoon Network;Adult;2016/02/15;14:20:00;Midday;01:30:47;Mon;Feb
+772529;Gauteng;male;black;27;Supersport Live Events;Adult;2016/02/14;22:11:00;Night;01:30:50;Sun;Feb
+772529;Gauteng;male;black;27;Cartoon Network;Adult;2016/01/17;13:18:00;Midday;01:31:15;Sun;Jan
+772529;Gauteng;male;black;27;E! Entertainment;Adult;2016/01/17;09:57:00;Morning;01:35:48;Sun;Jan
+772529;Gauteng;male;black;27;Supersport Live Events;Adult;2016/02/06;20:02:00;Night;02:20:58;Sat;Feb
+772529;Gauteng;male;black;27;Supersport Live Events;Adult;2016/03/06;16:23:00;Afternoon;01:30:24;Sun;Mar
+809727;Limpopo;male;indian_asian;26;ICC Cricket World Cup 2011;Adult;2016/03/11;13:12:00;Midday;01:40:24;Fri;Mar
+809727;Limpopo;male;indian_asian;26;SuperSport Blitz;Adult;2016/03/15;22:38:00;Night;01:31:10;Tue;Mar
+809759;Limpopo;male;indian_asian;37;ICC Cricket World Cup 2011;Adult;2016/02/24;12:00:00;Midday;01:32:26;Wed;Feb
+2204253;Mpumalanga;male;indian_asian;36;ICC Cricket World Cup 2011;Adult;2016/03/30;17:13:00;Afternoon;03:25:50;Wed;Mar
+930897;Mpumalanga;male;white;21;Cartoon Network;Adult;2016/03/28;17:30:00;Afternoon;01:30:30;Mon;Mar
+930897;Mpumalanga;male;white;21;CNN;Adult;2016/03/28;09:53:00;Morning;01:30:43;Mon;Mar
+930897;Mpumalanga;male;white;21;M-Net;Adult;2016/03/27;20:16:00;Night;01:30:14;Sun;Mar
+927246;Gauteng;male;indian_asian;29;ICC Cricket World Cup 2011;Adult;2016/03/30;10:36:00;Morning;01:39:54;Wed;Mar
+927246;Gauteng;male;indian_asian;29;SuperSport Blitz;Adult;2016/03/29;22:11:00;Night;01:30:28;Tue;Mar
+2158646;Gauteng;male;black;33;SuperSport Live Events;Adult;2016/02/13;19:06:00;Afternoon;01:30:00;Sat;Feb
+809787;Kwazulu Natal;female;black;34;Africa Magic;Adult;2016/02/09;15:38:00;Midday;02:00:44;Tue;Feb
+2369790;Mpumalanga;male;indian_asian;26;ICC Cricket World Cup 2011;Adult;2016/02/19;16:57:00;Afternoon;05:33:26;Fri;Feb
+2369790;Mpumalanga;male;indian_asian;26;Cartoon Network;Adult;2016/02/12;15:01:00;Midday;01:30:32;Fri;Feb
+2369790;Mpumalanga;male;indian_asian;26;ICC Cricket World Cup 2011;Adult;2016/03/29;16:28:00;Afternoon;01:30:06;Tue;Mar
+2369790;Mpumalanga;male;indian_asian;26;Africa Magic;Adult;2016/02/13;18:51:00;Afternoon;01:31:30;Sat;Feb
+809817;Western Cape;male;black;27;Trace TV;Adult;2016/02/19;13:18:00;Midday;01:32:06;Fri;Feb
+809817;Western Cape;male;black;27;Trace TV;Adult;2016/02/20;10:17:00;Morning;01:32:30;Sat;Feb
+809817;Western Cape;male;black;27;Vuzu;Adult;2016/02/19;18:05:00;Afternoon;01:30:34;Fri;Feb
+809817;Western Cape;male;black;27;E! Entertainment;Adult;2016/02/21;17:23:00;Afternoon;01:36:10;Sun;Feb
+794277;Gauteng;male;black;33;Cartoon Network;Adult;2016/02/14;15:40:00;Midday;01:32:35;Sun;Feb
+794277;Gauteng;male;black;33;SawSee;Adult;2016/02/14;21:18:00;Night;01:31:05;Sun;Feb
+2204358;Western Cape;male;coloured;52;Supersport Live Events;Adult;2016/03/04;10:13:00;Morning;01:37:40;Fri;Mar
+2204358;Western Cape;male;coloured;52;Cartoon Network;Adult;2016/01/22;22:47:00;Night;01:48:50;Fri;Jan
+2204358;Western Cape;male;coloured;52;Supersport Live Events;Adult;2016/01/27;16:55:00;Afternoon;02:01:20;Wed;Jan
+2204358;Western Cape;male;coloured;52;M-Net;Adult;2016/01/01;23:17:00;Night;01:30:09;Fri;Jan
+2204358;Western Cape;male;coloured;52;SuperSport Blitz;Adult;2016/02/12;14:20:00;Midday;01:30:06;Fri;Feb
+2204358;Western Cape;male;coloured;52;SuperSport Blitz;Adult;2016/03/06;00:17:00;Morning;03:39:52;Sun;Mar
+484936;Eastern Cape;male;black;37;Supersport Live Events;Adult;2016/01/22;15:49:00;Midday;01:30:00;Fri;Jan
+940590;Western Cape;male;coloured;27;SuperSport Blitz;Adult;2016/03/28;18:00:00;Afternoon;01:30:10;Mon;Mar
+940590;Western Cape;male;coloured;27;ICC Cricket World Cup 2011;Adult;2016/03/29;16:50:00;Afternoon;01:30:22;Tue;Mar
+809853;Western Cape;female;None;46;Africa Magic;Adult;2016/02/04;11:35:00;Morning;01:33:37;Thu;Feb
+809853;Western Cape;female;None;46;Africa Magic;Adult;2016/02/04;21:52:00;Night;01:47:42;Thu;Feb
+2369962;Gauteng;male;indian_asian;44;ICC Cricket World Cup 2011;Adult;2016/03/29;18:31:00;Afternoon;01:56:18;Tue;Mar
+69707;Kwazulu Natal;male;indian_asian;34;SuperSport Blitz;Adult;2016/03/20;00:13:00;Morning;01:31:50;Sun;Mar
+772665;Kwazulu Natal;male;black;34;Africa Magic;Adult;2016/02/06;17:41:00;Afternoon;02:03:01;Sat;Feb
+772665;Kwazulu Natal;male;black;34;Boomerang;Adult;2016/02/03;21:26:00;Night;01:34:03;Wed;Feb
+920091;Gauteng;male;indian_asian;40;SuperSport Blitz;Adult;2016/03/22;23:25:00;Night;01:30:00;Tue;Mar
+103657;Mpumalanga;male;white;24;M-Net;Adult;2016/03/19;19:11:00;Afternoon;01:32:58;Sat;Mar
+772685;Gauteng;male;black;36;Trace TV;Adult;2016/01/14;23:00:00;Night;01:30:33;Thu;Jan
+772685;Gauteng;male;black;36;Cartoon Network;Adult;2016/01/22;09:58:00;Morning;01:30:20;Fri;Jan
+772685;Gauteng;male;black;36;Channel O;Adult;2016/01/17;20:05:00;Night;01:31:06;Sun;Jan
+772685;Gauteng;male;black;36;Supersport Live Events;Adult;2016/01/17;06:34:00;Morning;01:30:44;Sun;Jan
+772685;Gauteng;male;black;36;Supersport Live Events;Adult;2016/01/09;17:18:00;Afternoon;02:06:10;Sat;Jan
+596969;Gauteng;female;black;33;Cartoon Network;Adult;2016/01/04;19:43:00;Afternoon;01:31:47;Mon;Jan
+596969;Gauteng;female;black;33;Trace TV;Adult;2016/01/08;22:54:00;Night;01:30:15;Fri;Jan
+832751;Kwazulu Natal;male;indian_asian;22;Cartoon Network;Adult;2016/03/03;13:33:00;Midday;01:35:00;Thu;Mar
+832751;Kwazulu Natal;male;indian_asian;22;Trace TV;Adult;2016/01/13;04:10:00;Morning;02:44:24;Wed;Jan
+832751;Kwazulu Natal;male;indian_asian;22;Trace TV;Adult;2016/01/14;20:38:00;Night;01:43:33;Thu;Jan
+832751;Kwazulu Natal;male;indian_asian;22;Trace TV;Adult;2016/01/09;02:01:00;Morning;01:32:45;Sat;Jan
+832751;Kwazulu Natal;male;indian_asian;22;Cartoon Network;Adult;2016/02/28;09:20:00;Morning;01:36:11;Sun;Feb
+809908;Eastern Cape;male;indian_asian;9;ICC Cricket World Cup 2011;Children;2016/02/20;21:56:00;Night;01:30:46;Sat;Feb
+809908;Eastern Cape;male;indian_asian;9;ICC Cricket World Cup 2011;Children;2016/03/14;14:00:00;Midday;01:41:30;Mon;Mar
+809908;Eastern Cape;male;indian_asian;9;ICC Cricket World Cup 2011;Children;2016/03/18;16:53:00;Afternoon;03:36:24;Fri;Mar
+809908;Eastern Cape;male;indian_asian;9;ICC Cricket World Cup 2011;Children;2016/03/18;12:20:00;Midday;01:58:02;Fri;Mar
+809908;Eastern Cape;male;indian_asian;9;Africa Magic;Children;2016/03/20;10:00:00;Morning;01:30:13;Sun;Mar
+809908;Eastern Cape;male;indian_asian;9;ICC Cricket World Cup 2011;Children;2016/03/20;18:35:00;Afternoon;01:35:28;Sun;Mar
+809908;Eastern Cape;male;indian_asian;9;ICC Cricket World Cup 2011;Children;2016/03/06;10:35:00;Morning;01:35:54;Sun;Mar
+809908;Eastern Cape;male;indian_asian;9;Africa Magic;Children;2016/03/09;13:02:00;Midday;01:30:23;Wed;Mar
+804459;Gauteng;female;black;30;SawSee;Adult;2016/03/02;17:59:00;Afternoon;01:31:16;Wed;Mar
+804459;Gauteng;female;black;30;Trace TV;Adult;2016/03/06;22:21:00;Night;01:52:15;Sun;Mar
+1107941;Gauteng;male;white;21;Trace TV;Adult;2016/01/19;12:24:00;Midday;01:31:00;Tue;Jan
+268737;Gauteng;male;black;23;Supersport Live Events;Adult;2016/01/10;22:15:00;Night;01:31:36;Sun;Jan
+867252;Gauteng;male;indian_asian;22;DStv Events 1;Adult;2016/03/09;19:26:00;Afternoon;01:31:45;Wed;Mar
+1072207;Northern Cape;male;white;65;E! Entertainment;Old_Age;2016/01/10;19:43:00;Afternoon;01:30:00;Sun;Jan
+793232;North West;male;black;27;Africa Magic;Adult;2016/02/16;09:21:00;Morning;01:30:16;Tue;Feb
+927629;Gauteng;male;indian_asian;25;Supersport Live Events;Adult;2016/03/30;16:31:00;Afternoon;01:30:46;Wed;Mar
+831314;North West;male;black;19;Cartoon Network;Teenager;2016/03/03;18:20:00;Afternoon;01:31:01;Thu;Mar
+831314;North West;male;black;19;Cartoon Network;Teenager;2016/03/05;19:46:00;Afternoon;01:31:26;Sat;Mar
+832862;Gauteng;male;black;33;SuperSport Blitz;Adult;2016/03/03;16:47:00;Afternoon;01:30:00;Thu;Mar
+832862;Gauteng;male;black;33;Channel O;Adult;2016/02/01;17:06:00;Afternoon;01:57:03;Mon;Feb
+832862;Gauteng;male;black;33;Trace TV;Adult;2016/03/01;11:58:00;Morning;01:34:57;Tue;Mar
+582217;Mpumalanga;male;black;34;Channel O;Adult;2016/01/01;23:04:00;Night;01:30:27;Fri;Jan
+940794;Mpumalanga;male;white;33;SuperSport Blitz;Adult;2016/03/30;10:54:00;Morning;01:30:54;Wed;Mar
+940794;Mpumalanga;male;white;33;DStv Events 1;Adult;2016/03/29;23:58:00;Night;01:30:45;Tue;Mar
+940797;Eastern Cape;male;coloured;44;Cartoon Network;Adult;2016/03/04;21:02:00;Night;01:30:26;Fri;Mar
+940797;Eastern Cape;male;coloured;44;ICC Cricket World Cup 2011;Adult;2016/03/01;12:31:00;Midday;01:34:32;Tue;Mar
+931222;Limpopo;male;indian_asian;26;ICC Cricket World Cup 2011;Adult;2016/03/30;06:53:00;Morning;01:30:22;Wed;Mar
+931222;Limpopo;male;indian_asian;26;ICC Cricket World Cup 2011;Adult;2016/03/29;19:12:00;Afternoon;01:30:58;Tue;Mar
+931222;Limpopo;male;indian_asian;26;Supersport Live Events;Adult;2016/03/29;19:40:00;Afternoon;01:31:20;Tue;Mar
+940811;Kwazulu Natal;male;coloured;47;ICC Cricket World Cup 2011;Adult;2016/03/16;14:33:00;Midday;01:40:38;Wed;Mar
+867337;None;None;None;0;ICC Cricket World Cup 2011;Children;2016/03/18;15:58:00;Midday;01:30:16;Fri;Mar
+867340;Gauteng;male;black;27;Supersport Live Events;Adult;2016/03/24;16:46:00;Afternoon;02:05:42;Thu;Mar
+867340;Gauteng;male;black;27;Cartoon Network;Adult;2016/03/14;16:12:00;Afternoon;01:32:00;Mon;Mar
+867340;Gauteng;male;black;27;ICC Cricket World Cup 2011;Adult;2016/03/15;14:04:00;Midday;05:01:10;Tue;Mar
+810051;Gauteng;female;indian_asian;22;Cartoon Network;Adult;2016/02/18;13:22:00;Midday;01:30:15;Thu;Feb
+810051;Gauteng;female;indian_asian;22;SuperSport Blitz;Adult;2016/02/19;22:41:00;Night;01:33:30;Fri;Feb
+810051;Gauteng;female;indian_asian;22;SuperSport Blitz;Adult;2016/02/18;14:28:00;Midday;01:30:26;Thu;Feb
+810051;Gauteng;female;indian_asian;22;Cartoon Network;Adult;2016/02/18;20:17:00;Night;01:49:44;Thu;Feb
+810051;Gauteng;female;indian_asian;22;E! Entertainment;Adult;2016/03/06;21:44:00;Night;01:30:42;Sun;Mar
+810051;Gauteng;female;indian_asian;22;SuperSport Blitz;Adult;2016/02/27;21:18:00;Night;01:32:36;Sat;Feb
+789766;Free State;male;black;18;Supersport Live Events;Teenager;2016/02/12;14:39:00;Midday;01:34:12;Fri;Feb
+931322;Limpopo;male;indian_asian;30;Boomerang;Adult;2016/03/31;23:08:00;Night;01:30:54;Thu;Mar
+832976;Gauteng;male;indian_asian;50;Supersport Live Events;Adult;2016/03/24;17:46:00;Afternoon;01:35:58;Thu;Mar
+881496;Kwazulu Natal;male;indian_asian;42;ICC Cricket World Cup 2011;Adult;2016/03/05;21:05:00;Night;01:30:46;Sat;Mar
+51888;Mpumalanga;female;black;24;SawSee;Adult;2016/01/06;09:02:00;Morning;01:30:47;Wed;Jan
+51888;Mpumalanga;female;black;24;Cartoon Network;Adult;2016/01/08;08:05:00;Morning;01:30:34;Fri;Jan
+892225;Western Cape;male;None;36;SuperSport Blitz;Adult;2016/03/22;20:42:00;Night;01:33:52;Tue;Mar
+892225;Western Cape;male;None;36;Cartoon Network;Adult;2016/03/22;23:20:00;Night;01:30:00;Tue;Mar
+927910;Gauteng;male;indian_asian;35;ICC Cricket World Cup 2011;Adult;2016/03/29;08:48:00;Morning;01:30:24;Tue;Mar
+803004;None;None;None;0;ICC Cricket World Cup 2011;Children;2016/03/30;19:00:00;Afternoon;01:41:44;Wed;Mar
+2370560;Eastern Cape;male;coloured;31;Boomerang;Adult;2016/01/05;02:49:00;Morning;01:30:37;Tue;Jan
+2370560;Eastern Cape;male;coloured;31;Supersport Live Events;Adult;2016/01/06;05:47:00;Morning;01:39:36;Wed;Jan
+2370560;Eastern Cape;male;coloured;31;ICC Cricket World Cup 2011;Adult;2016/03/05;13:26:00;Midday;01:30:58;Sat;Mar
+821816;Gauteng;male;black;35;SuperSport Blitz;Adult;2016/02/04;21:51:00;Night;01:31:32;Thu;Feb
+821816;Gauteng;male;black;35;SuperSport Blitz;Adult;2016/01/29;20:30:00;Night;01:30:24;Fri;Jan
+831413;North West;male;black;25;SawSee;Adult;2016/03/13;07:58:00;Morning;01:30:14;Sun;Mar
+831413;North West;male;black;25;Channel O;Adult;2016/03/14;18:11:00;Afternoon;01:30:48;Mon;Mar
+831413;North West;male;black;25;Channel O;Adult;2016/03/04;06:15:00;Morning;01:32:03;Fri;Mar
+831413;North West;male;black;25;E! Entertainment;Adult;2016/03/04;20:53:00;Night;01:30:40;Fri;Mar
+831413;North West;male;black;25;Channel O;Adult;2016/03/12;22:21:00;Night;01:35:09;Sat;Mar
+941003;Gauteng;male;black;24;CNN;Adult;2016/03/24;21:44:00;Night;01:31:11;Thu;Mar
+941003;Gauteng;male;black;24;Boomerang;Adult;2016/03/31;15:09:00;Midday;01:30:00;Thu;Mar
+941003;Gauteng;male;black;24;Channel O;Adult;2016/03/25;08:55:00;Morning;01:30:42;Fri;Mar
+810168;Gauteng;male;black;32;SuperSport Blitz;Adult;2016/02/19;19:40:00;Afternoon;01:33:34;Fri;Feb
+810169;Eastern Cape;male;white;31;Supersport Live Events;Adult;2016/02/19;17:28:00;Afternoon;01:30:34;Fri;Feb
+810169;Eastern Cape;male;white;31;Cartoon Network;Adult;2016/02/19;17:32:00;Afternoon;01:31:34;Fri;Feb
+810169;Eastern Cape;male;white;31;Trace TV;Adult;2016/02/21;15:19:00;Midday;01:35:36;Sun;Feb
+893717;Limpopo;male;black;23;Africa Magic;Adult;2016/03/20;15:21:00;Midday;01:30:31;Sun;Mar
+772983;Gauteng;male;None;46;Supersport Live Events;Adult;2016/02/04;15:49:00;Midday;01:30:04;Thu;Feb
+893730;Eastern Cape;male;black;25;SuperSport Blitz;Adult;2016/03/19;16:42:00;Afternoon;01:30:26;Sat;Mar
+893730;Eastern Cape;male;black;25;SawSee;Adult;2016/03/19;15:33:00;Midday;01:30:51;Sat;Mar
+893730;Eastern Cape;male;black;25;Channel O;Adult;2016/03/25;11:24:00;Morning;01:31:00;Fri;Mar
+773002;Gauteng;male;black;25;Cartoon Network;Adult;2016/02/09;12:53:00;Midday;01:32:07;Tue;Feb
+773002;Gauteng;male;black;25;Trace TV;Adult;2016/02/09;08:29:00;Morning;01:31:21;Tue;Feb
+773002;Gauteng;male;black;25;Channel O;Adult;2016/02/09;09:14:00;Morning;01:34:03;Tue;Feb
+773002;Gauteng;male;black;25;kykNET;Adult;2016/02/03;19:33:00;Afternoon;01:31:30;Wed;Feb
+773002;Gauteng;male;black;25;Boomerang;Adult;2016/02/03;19:40:00;Afternoon;01:30:29;Wed;Feb
+773002;Gauteng;male;black;25;Cartoon Network;Adult;2016/02/03;20:20:00;Night;01:31:47;Wed;Feb
+849265;Gauteng;male;None;22;Channel O;Adult;2016/03/07;06:42:00;Morning;01:30:00;Mon;Mar
+2370690;Limpopo;male;indian_asian;26;SuperSport Blitz;Adult;2016/02/14;10:11:00;Morning;01:39:22;Sun;Feb
+941116;Mpumalanga;male;indian_asian;31;ICC Cricket World Cup 2011;Adult;2016/03/30;18:51:00;Afternoon;03:11:50;Wed;Mar
+941116;Mpumalanga;male;indian_asian;31;ICC Cricket World Cup 2011;Adult;2016/03/30;13:08:00;Midday;01:30:30;Wed;Mar
+941116;Mpumalanga;male;indian_asian;31;Africa Magic;Adult;2016/03/29;21:49:00;Night;01:31:32;Tue;Mar
+773052;Gauteng;male;coloured;49;Supersport Live Events;Adult;2016/02/07;17:19:00;Afternoon;01:30:42;Sun;Feb
+809331;Western Cape;male;indian_asian;49;SuperSport Blitz;Adult;2016/02/14;01:43:00;Morning;01:41:06;Sun;Feb
+2361615;Mpumalanga;male;None;44;Africa Magic;Adult;2016/01/04;04:59:00;Morning;01:47:54;Mon;Jan
+773059;Mpumalanga;male;black;38;MK;Adult;2016/02/03;02:30:00;Morning;01:31:31;Wed;Feb
+794647;Gauteng;male;white;40;Cartoon Network;Adult;2016/02/19;18:33:00;Afternoon;01:41:29;Fri;Feb
+794647;Gauteng;male;white;40;Boomerang;Adult;2016/01/02;11:33:00;Morning;01:36:45;Sat;Jan
+794647;Gauteng;male;white;40;Africa Magic;Adult;2016/01/04;18:16:00;Afternoon;01:30:07;Mon;Jan
+925648;Gauteng;male;indian_asian;34;Supersport Live Events;Adult;2016/03/30;16:46:00;Afternoon;01:31:34;Wed;Mar
+931586;Gauteng;male;indian_asian;33;Boomerang;Adult;2016/03/31;01:04:00;Morning;01:30:11;Thu;Mar
+907264;Gauteng;male;black;32;Africa Magic;Adult;2016/03/26;15:58:00;Midday;01:45:47;Sat;Mar
+810307;Eastern Cape;male;indian_asian;22;ICC Cricket World Cup 2011;Adult;2016/02/24;11:31:00;Morning;01:33:30;Wed;Feb
+810307;Eastern Cape;male;indian_asian;22;ICC Cricket World Cup 2011;Adult;2016/02/24;13:04:00;Midday;01:33:58;Wed;Feb
+810307;Eastern Cape;male;indian_asian;22;ICC Cricket World Cup 2011;Adult;2016/02/24;11:15:00;Morning;01:33:26;Wed;Feb
+582393;Kwazulu Natal;male;indian_asian;30;Trace TV;Adult;2016/01/01;16:57:00;Afternoon;01:30:15;Fri;Jan
+623435;Kwazulu Natal;male;white;46;Supersport Live Events;Adult;2016/01/21;06:06:00;Morning;01:30:00;Thu;Jan
+780483;Mpumalanga;male;black;29;Supersport Live Events;Adult;2016/01/15;18:26:00;Afternoon;01:33:14;Fri;Jan
+780483;Mpumalanga;male;black;29;Boomerang;Adult;2016/01/18;13:29:00;Midday;01:47:15;Mon;Jan
+2259942;Mpumalanga;male;black;26;Vuzu;Adult;2016/02/21;21:16:00;Night;01:31:40;Sun;Feb
+2259942;Mpumalanga;male;black;26;Channel O;Adult;2016/02/21;21:48:00;Night;01:32:39;Sun;Feb
+2259942;Mpumalanga;male;black;26;Channel O;Adult;2016/02/05;15:06:00;Midday;02:16:27;Fri;Feb
+2259942;Mpumalanga;male;black;26;SawSee;Adult;2016/02/06;22:18:00;Night;01:30:00;Sat;Feb
+2259942;Mpumalanga;male;black;26;Channel O;Adult;2016/03/16;18:08:00;Afternoon;01:45:33;Wed;Mar
+2259942;Mpumalanga;male;black;26;Africa Magic;Adult;2016/03/01;16:06:00;Afternoon;01:33:47;Tue;Mar
+2288634;Western Cape;male;coloured;25;ICC Cricket World Cup 2011;Adult;2016/02/22;17:23:00;Afternoon;01:48:54;Mon;Feb
+2288634;Western Cape;male;coloured;25;Supersport Live Events;Adult;2016/02/25;11:51:00;Morning;01:34:16;Thu;Feb
+810333;Limpopo;male;indian_asian;24;E! Entertainment;Adult;2016/02/21;21:51:00;Night;01:31:56;Sun;Feb
+810333;Limpopo;male;indian_asian;24;ICC Cricket World Cup 2011;Adult;2016/02/25;09:39:00;Morning;02:08:26;Thu;Feb
+928256;Gauteng;male;coloured;20;ICC Cricket World Cup 2011;Adult;2016/03/30;11:11:00;Morning;01:36:24;Wed;Mar
+928256;Gauteng;male;coloured;20;ICC Cricket World Cup 2011;Adult;2016/03/30;16:54:00;Afternoon;02:28:02;Wed;Mar
+833257;Kwazulu Natal;male;indian_asian;30;Break in transmission;Adult;2016/03/01;21:43:00;Night;01:30:15;Tue;Mar
+810346;Kwazulu Natal;male;black;30;Channel O;Adult;2016/02/18;17:55:00;Afternoon;02:22:12;Thu;Feb
+2415188;Gauteng;male; ;37;ICC Cricket World Cup 2011;Adult;2016/03/30;08:13:00;Morning;01:35:46;Wed;Mar
+2415188;Gauteng;male; ;37;CNN;Adult;2016/03/30;09:34:00;Morning;01:30:47;Wed;Mar
+893882;Kwazulu Natal;male;indian_asian;33;Supersport Live Events;Adult;2016/03/24;15:42:00;Midday;02:06:10;Thu;Mar
+867693;None;None;None;0;SawSee;Children;2016/03/14;23:47:00;Night;01:30:26;Mon;Mar
+2428163;Western Cape;male;black;48;Supersport Live Events;Adult;2016/02/19;20:12:00;Night;01:31:04;Fri;Feb
+822062;Free State;male;coloured;27;Africa Magic;Adult;2016/02/20;21:25:00;Night;01:30:18;Sat;Feb
+822062;Free State;male;coloured;27;Boomerang;Adult;2016/02/16;09:09:00;Morning;01:30:23;Tue;Feb
+822062;Free State;male;coloured;27;Supersport Live Events;Adult;2016/02/17;16:52:00;Afternoon;01:30:30;Wed;Feb
+822067;Gauteng;male;coloured;38;Supersport Live Events;Adult;2016/03/08;01:36:00;Morning;01:30:34;Tue;Mar
+822067;Gauteng;male;coloured;38;ICC Cricket World Cup 2011;Adult;2016/03/20;16:41:00;Afternoon;01:31:06;Sun;Mar
+820119;Limpopo;male;indian_asian;25;Trace TV;Adult;2016/03/24;08:33:00;Morning;01:30:12;Thu;Mar
+820119;Limpopo;male;indian_asian;25;Supersport Live Events;Adult;2016/03/24;11:23:00;Morning;01:38:10;Thu;Mar
+773163;Western Cape;female;black;26;Boomerang;Adult;2016/02/06;10:53:00;Morning;01:33:50;Sat;Feb
+773163;Western Cape;female;black;26;E! Entertainment;Adult;2016/02/28;23:54:00;Night;01:59:34;Sun;Feb
+773163;Western Cape;female;black;26;ICC Cricket World Cup 2011;Adult;2016/02/28;15:26:00;Midday;01:35:00;Sun;Feb
+893914;Mpumalanga;male;black;39;CNN;Adult;2016/02/21;15:54:00;Midday;01:31:24;Sun;Feb
+893914;Mpumalanga;male;black;39;Africa Magic;Adult;2016/02/21;14:05:00;Midday;01:30:15;Sun;Feb
+804936;Gauteng;male;black;38;CNN;Adult;2016/02/21;09:26:00;Morning;01:30:34;Sun;Feb
+2361784;Western Cape;male;coloured;26;Trace TV;Adult;2016/01/03;14:23:00;Midday;01:34:30;Sun;Jan
+803159;Gauteng;male;black;30;Trace TV;Adult;2016/03/19;13:41:00;Midday;01:30:33;Sat;Mar
+803159;Gauteng;male;black;30;SuperSport Blitz;Adult;2016/03/20;14:36:00;Midday;01:30:32;Sun;Mar
+780546;Gauteng;male;black;45;CNN;Adult;2016/03/06;14:07:00;Midday;01:51:27;Sun;Mar
+780546;Gauteng;male;black;45;CNN;Adult;2016/03/20;17:49:00;Afternoon;02:19:21;Sun;Mar
+780546;Gauteng;male;black;45;CNN;Adult;2016/03/25;21:56:00;Night;01:55:09;Fri;Mar
+2361806;Limpopo;male;black;25;Channel O;Adult;2016/03/18;15:21:00;Midday;01:38:18;Fri;Mar
+2361806;Limpopo;male;black;25;Africa Magic;Adult;2016/03/10;08:44:00;Morning;01:30:01;Thu;Mar
+720646;North West;male;white;25;Supersport Live Events;Adult;2016/01/19;12:23:00;Midday;01:30:16;Tue;Jan
+877370;Western Cape;male;other;29;SuperSport Blitz;Adult;2016/03/17;17:22:00;Afternoon;01:30:00;Thu;Mar
+903467;Western Cape;female;white;47;Boomerang;Adult;2016/03/25;15:18:00;Midday;01:35:31;Fri;Mar
+2092115;Mpumalanga;male;black;49;Boomerang;Adult;2016/02/14;13:49:00;Midday;02:07:48;Sun;Feb
+2092115;Mpumalanga;male;black;49;Cartoon Network;Adult;2016/02/02;14:04:00;Midday;01:30:08;Tue;Feb
+2092115;Mpumalanga;male;black;49;Boomerang;Adult;2016/02/02;13:32:00;Midday;01:38:28;Tue;Feb
+2092115;Mpumalanga;male;black;49;Boomerang;Adult;2016/01/08;16:23:00;Afternoon;01:31:13;Fri;Jan
+2092115;Mpumalanga;male;black;49;Cartoon Network;Adult;2016/01/16;16:39:00;Afternoon;01:39:58;Sat;Jan
+2092115;Mpumalanga;male;black;49;Boomerang;Adult;2016/01/15;13:16:00;Midday;01:54:53;Fri;Jan
+2092115;Mpumalanga;male;black;49;Boomerang;Adult;2016/01/28;20:50:00;Night;01:35:47;Thu;Jan
+2092115;Mpumalanga;male;black;49;Cartoon Network;Adult;2016/01/14;18:44:00;Afternoon;02:28:45;Thu;Jan
+2092115;Mpumalanga;male;black;49;Cartoon Network;Adult;2016/01/22;10:07:00;Morning;01:41:43;Fri;Jan
+2092115;Mpumalanga;male;black;49;Boomerang;Adult;2016/03/05;09:44:00;Morning;01:42:00;Sat;Mar
+2092115;Mpumalanga;male;black;49;Cartoon Network;Adult;2016/01/28;21:22:00;Night;01:48:36;Thu;Jan
+2092115;Mpumalanga;male;black;49;Supersport Live Events;Adult;2016/03/06;19:01:00;Afternoon;01:30:28;Sun;Mar
+2092115;Mpumalanga;male;black;49;Boomerang;Adult;2016/03/29;18:33:00;Afternoon;01:30:07;Tue;Mar
+861217;Kwazulu Natal;female;None;47;ICC Cricket World Cup 2011;Adult;2016/03/26;15:31:00;Midday;06:06:12;Sat;Mar
+2371031;Western Cape;male;coloured;55;SuperSport Blitz;Adult;2016/02/15;22:49:00;Night;01:30:30;Mon;Feb
+2371031;Western Cape;male;coloured;55;SuperSport Blitz;Adult;2016/01/19;19:46:00;Afternoon;01:32:32;Tue;Jan
+2371031;Western Cape;male;coloured;55;Supersport Live Events;Adult;2016/01/23;17:09:00;Afternoon;01:36:18;Sat;Jan
+611044;Gauteng;male;indian_asian;34;Cartoon Network;Adult;2016/03/28;17:52:00;Afternoon;01:30:00;Mon;Mar
+600435;Western Cape;male;black;36;DStv Events 1;Adult;2016/01/11;12:17:00;Midday;01:54:55;Mon;Jan
+600435;Western Cape;male;black;36;Boomerang;Adult;2016/01/08;07:38:00;Morning;01:32:30;Fri;Jan
+2371059;Gauteng;male;indian_asian;16;ICC Cricket World Cup 2011;Teenager;2016/03/23;11:00:00;Morning;01:35:50;Wed;Mar
+2371059;Gauteng;male;indian_asian;16;SuperSport Blitz;Teenager;2016/03/20;19:47:00;Afternoon;01:38:54;Sun;Mar
+2371059;Gauteng;male;indian_asian;16;ICC Cricket World Cup 2011;Teenager;2016/03/30;13:53:00;Midday;01:32:30;Wed;Mar
+2371059;Gauteng;male;indian_asian;16;ICC Cricket World Cup 2011;Teenager;2016/03/30;12:08:00;Midday;01:32:24;Wed;Mar
+2361963;Gauteng;male;white;45;ICC Cricket World Cup 2011;Adult;2016/02/19;15:36:00;Midday;02:12:40;Fri;Feb
+593270;North West;female;white;33;DStv Events 1;Adult;2016/01/02;19:39:00;Afternoon;01:45:55;Sat;Jan
+870488;Western Cape;male;coloured;18;Supersport Live Events;Teenager;2016/03/04;07:35:00;Morning;01:30:08;Fri;Mar
+870488;Western Cape;male;coloured;18;E! Entertainment;Teenager;2016/03/05;22:19:00;Night;01:30:00;Sat;Mar
+2216498;North West;male;white;59;ICC Cricket World Cup 2011;Adult;2016/03/25;15:21:00;Midday;01:30:50;Fri;Mar
+2371074;Western Cape;male;black;41;Boomerang;Adult;2016/02/14;06:55:00;Morning;01:47:53;Sun;Feb
+2371074;Western Cape;male;black;41;Boomerang;Adult;2016/02/02;20:14:00;Night;01:46:08;Tue;Feb
+2371074;Western Cape;male;black;41;Channel O;Adult;2016/02/07;16:12:00;Afternoon;01:31:51;Sun;Feb
+2371074;Western Cape;male;black;41;E! Entertainment;Adult;2016/01/21;14:45:00;Midday;01:30:30;Thu;Jan
+2371074;Western Cape;male;black;41;Boomerang;Adult;2016/02/17;18:06:00;Afternoon;01:44:42;Wed;Feb
+2371074;Western Cape;male;black;41;Boomerang;Adult;2016/01/19;17:12:00;Afternoon;01:37:17;Tue;Jan
+2371074;Western Cape;male;black;41;Boomerang;Adult;2016/01/21;13:40:00;Midday;01:37:33;Thu;Jan
+2371074;Western Cape;male;black;41;Boomerang;Adult;2016/03/15;17:00:00;Afternoon;01:56:33;Tue;Mar
+2371074;Western Cape;male;black;41;Cartoon Network;Adult;2016/03/01;19:00:00;Afternoon;01:46:12;Tue;Mar
+102190;Gauteng;male;white;42;ICC Cricket World Cup 2011;Adult;2016/03/25;17:40:00;Afternoon;01:32:40;Fri;Mar
+941456;Eastern Cape;male;coloured;20;Vuzu;Adult;2016/03/22;01:43:00;Morning;01:30:22;Tue;Mar
+941456;Eastern Cape;male;coloured;20;Supersport Live Events;Adult;2016/03/11;20:17:00;Night;03:00:12;Fri;Mar
+1109229;Western Cape;male;coloured;25;Trace TV;Adult;2016/03/08;09:58:00;Morning;01:34:42;Tue;Mar
+1109229;Western Cape;male;coloured;25;ICC Cricket World Cup 2011;Adult;2016/03/23;10:30:00;Morning;01:30:40;Wed;Mar
+1109229;Western Cape;male;coloured;25;Trace TV;Adult;2016/03/19;05:00:00;Morning;01:32:57;Sat;Mar
+1109229;Western Cape;male;coloured;25;Supersport Live Events;Adult;2016/03/20;17:08:00;Afternoon;01:30:14;Sun;Mar
+1109229;Western Cape;male;coloured;25;Boomerang;Adult;2016/03/28;11:55:00;Morning;01:34:11;Mon;Mar
+1109229;Western Cape;male;coloured;25;Cartoon Network;Adult;2016/03/27;21:03:00;Night;01:30:45;Sun;Mar
+833521;North West;male;black;33;Trace TV;Adult;2016/03/02;13:40:00;Midday;01:31:48;Wed;Mar
+792539;Free State;male;white;31;ICC Cricket World Cup 2011;Adult;2016/02/20;12:28:00;Midday;01:31:08;Sat;Feb
+941488;Gauteng;male;indian_asian;39;Supersport Live Events;Adult;2016/03/28;20:10:00;Night;01:31:26;Mon;Mar
+941488;Gauteng;male;indian_asian;39;Cartoon Network;Adult;2016/03/29;10:12:00;Morning;01:55:30;Tue;Mar
+941488;Gauteng;male;indian_asian;39;ICC Cricket World Cup 2011;Adult;2016/03/29;12:03:00;Midday;01:30:00;Tue;Mar
+833528;Gauteng;male;black;42;ICC Cricket World Cup 2011;Adult;2016/03/13;17:34:00;Afternoon;04:05:02;Sun;Mar
+833528;Gauteng;male;black;42;Supersport Live Events;Adult;2016/01/15;17:09:00;Afternoon;01:30:00;Fri;Jan
+833528;Gauteng;male;black;42;ICC Cricket World Cup 2011;Adult;2016/03/06;09:17:00;Morning;02:48:48;Sun;Mar
+2371138;Western Cape;male;coloured;26;Trace TV;Adult;2016/02/15;12:01:00;Midday;01:39:27;Mon;Feb
+2371138;Western Cape;male;coloured;26;Trace TV;Adult;2016/01/30;12:58:00;Midday;01:40:51;Sat;Jan
+822334;Gauteng;male;indian_asian;22;M-Net;Adult;2016/02/24;23:07:00;Night;01:32:11;Wed;Feb
+822334;Gauteng;male;indian_asian;22;ICC Cricket World Cup 2011;Adult;2016/02/24;11:35:00;Morning;01:32:30;Wed;Feb
+822334;Gauteng;male;indian_asian;22;Boomerang;Adult;2016/02/25;19:09:00;Afternoon;01:37:47;Thu;Feb
+822334;Gauteng;male;indian_asian;22;ICC Cricket World Cup 2011;Adult;2016/02/24;11:20:00;Morning;01:32:30;Wed;Feb
+822334;Gauteng;male;indian_asian;22;SuperSport Blitz;Adult;2016/02/24;20:29:00;Night;01:31:12;Wed;Feb
+822334;Gauteng;male;indian_asian;22;ICC Cricket World Cup 2011;Adult;2016/02/24;15:25:00;Midday;01:31:40;Wed;Feb
+822334;Gauteng;male;indian_asian;22;ICC Cricket World Cup 2011;Adult;2016/02/27;14:53:00;Midday;02:38:18;Sat;Feb
+822334;Gauteng;male;indian_asian;22;ICC Cricket World Cup 2011;Adult;2016/02/28;14:22:00;Midday;02:02:40;Sun;Feb
+822334;Gauteng;male;indian_asian;22;ICC Cricket World Cup 2011;Adult;2016/03/30;12:34:00;Midday;01:31:38;Wed;Mar
+894090;Mpumalanga;male;None;37;Channel O;Adult;2016/01/06;12:17:00;Midday;01:47:21;Wed;Jan
+2288980;Gauteng;male;indian_asian;33;Trace TV;Adult;2016/03/29;21:19:00;Night;01:30:54;Tue;Mar
+773393;Western Cape;male;white;17;Channel O;Teenager;2016/02/02;08:43:00;Morning;01:32:21;Tue;Feb
+773393;Western Cape;male;white;17;Channel O;Teenager;2016/02/04;22:05:00;Night;01:31:15;Thu;Feb
+810587;Kwazulu Natal;male;black;52;Channel O;Adult;2016/02/05;21:29:00;Night;01:32:15;Fri;Feb
+810587;Kwazulu Natal;male;black;52;Supersport Live Events;Adult;2016/03/03;12:58:00;Midday;01:30:44;Thu;Mar
+810587;Kwazulu Natal;male;black;52;ICC Cricket World Cup 2011;Adult;2016/03/03;10:50:00;Morning;01:34:40;Thu;Mar
+810587;Kwazulu Natal;male;black;52;Supersport Live Events;Adult;2016/03/12;20:42:00;Night;01:30:36;Sat;Mar
+810587;Kwazulu Natal;male;black;52;ICC Cricket World Cup 2011;Adult;2016/03/01;12:05:00;Midday;01:31:08;Tue;Mar
+805172;Gauteng;male;black;33;SuperSport Blitz;Adult;2016/02/16;21:23:00;Night;01:32:12;Tue;Feb
+2216581;Eastern Cape;male;black;47;Channel O;Adult;2016/03/13;06:48:00;Morning;01:40:03;Sun;Mar
+2216581;Eastern Cape;male;black;47;Channel O;Adult;2016/02/23;13:29:00;Midday;01:35:15;Tue;Feb
+2216581;Eastern Cape;male;black;47;Channel O;Adult;2016/03/21;02:32:00;Morning;02:27:27;Mon;Mar
+2422954;Western Cape;male;coloured;36;Trace TV;Adult;2016/01/13;08:02:00;Morning;01:53:09;Wed;Jan
+822366;Mpumalanga;female;black;40;Trace TV;Adult;2016/02/26;20:57:00;Night;01:30:06;Fri;Feb
+840081;Gauteng;male;black;26;Supersport Live Events;Adult;2016/03/03;23:38:00;Night;01:30:00;Thu;Mar
+840081;Gauteng;male;black;26;Trace TV;Adult;2016/03/03;22:49:00;Night;01:30:48;Thu;Mar
+840081;Gauteng;male;black;26;Channel O;Adult;2016/03/04;21:02:00;Night;03:17:00;Fri;Mar
+819048;Eastern Cape;male;None;27;Supersport Live Events;Adult;2016/03/19;17:11:00;Afternoon;01:37:50;Sat;Mar
+667632;Western Cape;male;None;34;Cartoon Network;Adult;2016/01/16;20:25:00;Night;01:34:41;Sat;Jan
+822376;Western Cape;male;coloured;38;ICC Cricket World Cup 2011;Adult;2016/02/24;12:22:00;Midday;01:33:46;Wed;Feb
+810604;Gauteng;male;None;47;CNN;Adult;2016/03/08;12:09:00;Midday;01:30:59;Tue;Mar
+810604;Gauteng;male;None;47;CNN;Adult;2016/02/16;21:45:00;Night;01:32:50;Tue;Feb
+810604;Gauteng;male;None;47;Supersport Live Events;Adult;2016/03/06;22:31:00;Night;01:30:24;Sun;Mar
+810604;Gauteng;male;None;47;Boomerang;Adult;2016/03/26;13:42:00;Midday;01:31:12;Sat;Mar
+810605;Limpopo;male;indian_asian;31;Supersport Live Events;Adult;2016/02/19;16:55:00;Afternoon;01:31:30;Fri;Feb
+810605;Limpopo;male;indian_asian;31;ICC Cricket World Cup 2011;Adult;2016/03/23;14:30:00;Midday;01:30:40;Wed;Mar
+810605;Limpopo;male;indian_asian;31;ICC Cricket World Cup 2011;Adult;2016/03/30;18:42:00;Afternoon;02:47:44;Wed;Mar
+810611;Mpumalanga;male;coloured;39;ICC Cricket World Cup 2011;Adult;2016/02/22;18:21:00;Afternoon;01:31:36;Mon;Feb
+810611;Mpumalanga;male;coloured;39;SuperSport Blitz;Adult;2016/03/08;17:20:00;Afternoon;01:33:44;Tue;Mar
+773431;Kwazulu Natal;female;indian_asian;24;Channel O;Adult;2016/01/28;23:28:00;Night;01:34:42;Thu;Jan
+773431;Kwazulu Natal;female;indian_asian;24;Boomerang;Adult;2016/01/20;17:42:00;Afternoon;01:32:10;Wed;Jan
+729345;Gauteng;male;white;44;Boomerang;Adult;2016/03/20;06:41:00;Morning;01:31:36;Sun;Mar
+852672;Mpumalanga;male;black;45;SuperSport Blitz;Adult;2016/03/05;12:49:00;Midday;01:36:22;Sat;Mar
+852672;Mpumalanga;male;black;45;SuperSport Blitz;Adult;2016/03/05;12:53:00;Midday;01:30:14;Sat;Mar
+822416;Gauteng;male;indian_asian;51;Supersport Live Events;Adult;2016/02/26;08:53:00;Morning;01:33:08;Fri;Feb
+822416;Gauteng;male;indian_asian;51;Supersport Live Events;Adult;2016/01/29;13:59:00;Midday;01:33:28;Fri;Jan
+822416;Gauteng;male;indian_asian;51;E! Entertainment;Adult;2016/02/12;15:36:00;Midday;01:31:16;Fri;Feb
+852681;Free State;male;white;29;Supersport Live Events;Adult;2016/03/03;12:21:00;Midday;01:30:16;Thu;Mar
+810648;Kwazulu Natal;male;indian_asian;43;Trace TV;Adult;2016/02/24;16:54:00;Afternoon;01:30:54;Wed;Feb
+790440;Gauteng;male;black;16;Trace TV;Teenager;2016/01/19;07:38:00;Morning;01:31:00;Tue;Jan
+882193;Gauteng;female;indian_asian;33;ICC Cricket World Cup 2011;Adult;2016/03/15;12:05:00;Midday;01:32:40;Tue;Mar
+882193;Gauteng;female;indian_asian;33;ICC Cricket World Cup 2011;Adult;2016/03/25;12:22:00;Midday;01:47:54;Fri;Mar
+773504;Kwazulu Natal;male;None;51;Supersport Live Events;Adult;2016/02/05;15:55:00;Midday;01:32:24;Fri;Feb
+755058;Eastern Cape;male;white;40;Cartoon Network;Adult;2016/01/23;09:59:00;Morning;01:31:36;Sat;Jan
+805296;Gauteng;male;None;67;SuperSport Blitz;Old_Age;2016/02/19;21:09:00;Night;01:46:56;Fri;Feb
+805310;Gauteng;male;black;39;Africa Magic;Adult;2016/01/07;16:55:00;Afternoon;01:32:26;Thu;Jan
+805310;Gauteng;male;black;39;Boomerang;Adult;2016/03/31;21:47:00;Night;01:31:57;Thu;Mar
+2423099;Western Cape;female;black;36;Africa Magic;Adult;2016/02/19;16:54:00;Afternoon;01:30:11;Fri;Feb
+2423099;Western Cape;female;black;36;Channel O;Adult;2016/02/14;00:00:00;Morning;01:39:09;Sun;Feb
+2423099;Western Cape;female;black;36;CNN;Adult;2016/02/12;18:52:00;Afternoon;01:30:11;Fri;Feb
+773530;Kwazulu Natal;male;black;46;SuperSport Blitz;Adult;2016/01/30;09:23:00;Morning;01:30:16;Sat;Jan
+773540;Western Cape;male;coloured;34;Supersport Live Events;Adult;2016/01/21;16:09:00;Afternoon;01:37:38;Thu;Jan
+773540;Western Cape;male;coloured;34;Trace TV;Adult;2016/01/19;21:15:00;Night;01:34:09;Tue;Jan
+773540;Western Cape;male;coloured;34;Supersport Live Events;Adult;2016/01/29;20:56:00;Night;01:30:12;Fri;Jan
+370331;Gauteng;female;white;39;ICC Cricket World Cup 2011;Adult;2016/02/24;12:37:00;Midday;01:33:58;Wed;Feb
+370331;Gauteng;female;white;39;ICC Cricket World Cup 2011;Adult;2016/02/24;12:10:00;Midday;01:33:40;Wed;Feb
+894104;Western Cape;male;coloured;25;SuperSport Blitz;Adult;2016/03/21;11:36:00;Morning;01:30:24;Mon;Mar
+820310;Gauteng;male;white;29;Supersport Live Events;Adult;2016/03/06;14:59:00;Midday;01:30:18;Sun;Mar
+814007;Gauteng;male;white;31;ICC Cricket World Cup 2011;Adult;2016/02/24;14:58:00;Midday;01:33:04;Wed;Feb
+773570;Gauteng;male;None;43;ICC Cricket World Cup 2011;Adult;2016/03/15;18:44:00;Afternoon;01:32:22;Tue;Mar
+929024;Gauteng;male;white;68;Supersport Live Events;Old_Age;2016/03/24;11:34:00;Morning;01:45:18;Thu;Mar
+894256;Gauteng;male;white;56;CNN;Adult;2016/03/23;13:14:00;Midday;01:30:15;Wed;Mar
+894256;Gauteng;male;white;56;Supersport Live Events;Adult;2016/03/24;08:22:00;Morning;01:47:24;Thu;Mar
+810770;Western Cape;male;coloured;25;Trace TV;Adult;2016/02/21;10:44:00;Morning;01:30:00;Sun;Feb
+810770;Western Cape;male;coloured;25;E! Entertainment;Adult;2016/02/20;23:00:00;Night;01:30:20;Sat;Feb
+810770;Western Cape;male;coloured;25;Trace TV;Adult;2016/02/26;08:43:00;Morning;01:30:15;Fri;Feb
+810770;Western Cape;male;coloured;25;Trace TV;Adult;2016/02/24;07:02:00;Morning;01:35:48;Wed;Feb
+810770;Western Cape;male;coloured;25;Trace TV;Adult;2016/03/08;21:22:00;Night;01:30:00;Tue;Mar
+810770;Western Cape;male;coloured;25;ICC Cricket World Cup 2011;Adult;2016/02/27;17:35:00;Afternoon;01:30:00;Sat;Feb
+822560;Eastern Cape;male;white;23;Supersport Live Events;Adult;2016/02/26;17:35:00;Afternoon;01:30:38;Fri;Feb
+822560;Eastern Cape;male;white;23;Supersport Live Events;Adult;2016/02/25;09:10:00;Morning;01:32:28;Thu;Feb
+802352;None;None;None;0;ICC Cricket World Cup 2011;Children;2016/03/30;11:04:00;Morning;01:40:06;Wed;Mar
+866251;Gauteng;male;black;30;Boomerang;Adult;2016/03/10;21:13:00;Night;01:34:31;Thu;Mar
+866315;Gauteng;male;black;35;Boomerang;Adult;2016/03/18;00:32:00;Morning;01:30:35;Fri;Mar
+808948;Western Cape;female;coloured;43;SuperSport Blitz;Adult;2016/02/11;07:04:00;Morning;01:32:00;Thu;Feb
+808948;Western Cape;female;coloured;43;Channel O;Adult;2016/02/18;05:26:00;Morning;01:30:12;Thu;Feb
+808948;Western Cape;female;coloured;43;Channel O;Adult;2016/02/18;15:46:00;Midday;01:30:57;Thu;Feb
+808948;Western Cape;female;coloured;43;Channel O;Adult;2016/02/24;11:36:00;Morning;01:31:00;Wed;Feb
+808948;Western Cape;female;coloured;43;Trace TV;Adult;2016/03/18;13:42:00;Midday;01:31:24;Fri;Mar
+808948;Western Cape;female;coloured;43;Channel O;Adult;2016/03/18;13:55:00;Midday;01:59:21;Fri;Mar
+808948;Western Cape;female;coloured;43;Channel O;Adult;2016/02/10;21:46:00;Night;01:30:27;Wed;Feb
+808948;Western Cape;female;coloured;43;Channel O;Adult;2016/03/20;17:49:00;Afternoon;01:30:18;Sun;Mar
+808948;Western Cape;female;coloured;43;ICC Cricket World Cup 2011;Adult;2016/02/23;13:18:00;Midday;01:44:44;Tue;Feb
+808948;Western Cape;female;coloured;43;Channel O;Adult;2016/02/13;03:05:00;Morning;01:31:42;Sat;Feb
+771816;Gauteng;male;black;31;SawSee;Adult;2016/01/01;08:59:00;Morning;01:31:19;Fri;Jan
+771816;Gauteng;male;black;31;Channel O;Adult;2016/01/01;09:02:00;Morning;01:30:39;Fri;Jan
+771816;Gauteng;male;black;31;Trace TV;Adult;2016/01/01;19:29:00;Afternoon;01:31:57;Fri;Jan
+771816;Gauteng;male;black;31;Cartoon Network;Adult;2016/03/23;13:09:00;Midday;01:31:03;Wed;Mar
+771816;Gauteng;male;black;31;Trace TV;Adult;2016/02/06;21:26:00;Night;01:31:15;Sat;Feb
+771816;Gauteng;male;black;31;Trace TV;Adult;2016/02/27;11:32:00;Morning;01:30:00;Sat;Feb
+771816;Gauteng;male;black;31;Trace TV;Adult;2016/03/07;05:54:00;Morning;01:31:57;Mon;Mar
+771816;Gauteng;male;black;31;Cartoon Network;Adult;2016/03/01;08:27:00;Morning;01:34:14;Tue;Mar
+853642;Kwazulu Natal;male;coloured;24;E! Entertainment;Adult;2016/03/06;23:22:00;Night;01:30:00;Sun;Mar
+865372;Kwazulu Natal;female;coloured;29;Boomerang;Adult;2016/03/28;08:07:00;Morning;01:31:03;Mon;Mar
+865372;Kwazulu Natal;female;coloured;29;Boomerang;Adult;2016/03/27;07:10:00;Morning;01:37:27;Sun;Mar
+779410;Gauteng;female;coloured;26;Cartoon Network;Adult;2016/01/21;19:19:00;Afternoon;01:34:11;Thu;Jan
+779410;Gauteng;female;coloured;26;Trace TV;Adult;2016/02/03;14:04:00;Midday;01:32:36;Wed;Feb
+939622;Mpumalanga;male;white;38;Boomerang;Adult;2016/03/28;01:23:00;Morning;01:30:04;Mon;Mar
+939622;Mpumalanga;male;white;38;kykNET;Adult;2016/03/28;15:14:00;Midday;01:32:06;Mon;Mar
+939622;Mpumalanga;male;white;38;CNN;Adult;2016/03/30;15:29:00;Midday;01:30:19;Wed;Mar
+830980;Kwazulu Natal;male;indian_asian;42;Boomerang;Adult;2016/03/17;12:13:00;Midday;01:33:10;Thu;Mar
+866195;Eastern Cape;male;white;32;MK;Adult;2016/03/12;02:19:00;Morning;01:31:11;Sat;Mar
+803542;Kwazulu Natal;male;indian_asian;36;Trace TV;Adult;2016/03/31;16:52:00;Afternoon;01:59:03;Thu;Mar
+593622;Gauteng;female;black;27;Trace TV;Adult;2016/01/21;14:05:00;Midday;01:39:00;Thu;Jan
+919180;Western Cape;male;coloured;36;Supersport Live Events;Adult;2016/03/26;11:08:00;Morning;01:36:00;Sat;Mar
+816289;Mpumalanga;female;black;25;Channel O;Adult;2016/03/08;14:48:00;Midday;01:32:21;Tue;Mar
+816289;Mpumalanga;female;black;25;CNN;Adult;2016/03/09;07:31:00;Morning;01:30:00;Wed;Mar
+416232;None;None;None;0;Boomerang;Children;2016/02/13;07:15:00;Morning;01:30:00;Sat;Feb
+721900;None;None;None;0;SawSee;Children;2016/02/06;21:20:00;Night;01:30:00;Sat;Feb
+788728;Gauteng;male;black;35;ICC Cricket World Cup 2011;Adult;2016/03/15;10:58:00;Morning;01:30:18;Tue;Mar
+892557;Gauteng;male;black;20;Cartoon Network;Adult;2016/03/09;15:36:00;Midday;01:39:13;Wed;Mar
+880319;None;None;None;0;ICC Cricket World Cup 2011;Children;2016/03/30;13:07:00;Midday;03:39:56;Wed;Mar
+939702;Western Cape;male;None;37;Boomerang;Adult;2016/03/04;21:02:00;Night;01:37:46;Fri;Mar
+865408;North West;male;black;37;SuperSport Blitz;Adult;2016/03/16;19:59:00;Afternoon;01:30:40;Wed;Mar
+866251;Gauteng;male;black;30;Trace TV;Adult;2016/03/03;20:32:00;Night;01:58:42;Thu;Mar
+788751;Western Cape;male;coloured;26;SuperSport Blitz;Adult;2016/02/01;23:35:00;Night;01:34:20;Mon;Feb
+2360384;Mpumalanga;male;black;37;Boomerang;Adult;2016/02/08;14:09:00;Midday;01:34:44;Mon;Feb
+939717;Gauteng;male;indian_asian;27;E! Entertainment;Adult;2016/03/30;10:10:00;Morning;01:30:46;Wed;Mar
+939717;Gauteng;male;indian_asian;27;Trace TV;Adult;2016/03/29;22:22:00;Night;01:32:06;Tue;Mar
+866270;Gauteng;male;indian_asian;32;ICC Cricket World Cup 2011;Adult;2016/03/13;14:07:00;Midday;02:29:14;Sun;Mar
+866270;Gauteng;male;indian_asian;32;Cartoon Network;Adult;2016/03/19;11:27:00;Morning;01:50:19;Sat;Mar
+817331;Gauteng;male;black;16;Channel O;Teenager;2016/02/25;14:36:00;Midday;01:46:00;Thu;Feb
+820491;Gauteng;male;black;48;Supersport Live Events;Adult;2016/03/01;06:12:00;Morning;01:30:28;Tue;Mar
+830923;Western Cape;male;coloured;31;Trace TV;Adult;2016/03/03;11:16:00;Morning;01:59:12;Thu;Mar
+830923;Western Cape;male;coloured;31;E! Entertainment;Adult;2016/03/03;17:09:00;Afternoon;01:30:54;Thu;Mar
+830923;Western Cape;male;coloured;31;Trace TV;Adult;2016/03/04;14:30:00;Midday;01:43:21;Fri;Mar
+809083;Gauteng;male;black;40;SuperSport Blitz;Adult;2016/02/25;14:46:00;Midday;01:48:40;Thu;Feb
+809083;Gauteng;male;black;40;SawSee;Adult;2016/02/23;01:29:00;Morning;01:31:44;Tue;Feb
+866315;Gauteng;male;black;35;Trace TV;Adult;2016/03/19;20:14:00;Night;01:30:33;Sat;Mar
+371772;Eastern Cape;female;indian_asian;9;Boomerang;Children;2016/01/02;14:47:00;Midday;01:35:59;Sat;Jan
+371772;Eastern Cape;female;indian_asian;9;Channel O;Children;2016/01/09;17:38:00;Afternoon;01:30:00;Sat;Jan
+190586;None;None;None;0;Boomerang;Children;2016/01/17;19:07:00;Afternoon;01:30:17;Sun;Jan
+809123;Gauteng;male;black;50;CNN;Adult;2016/02/03;22:19:00;Night;01:31:00;Wed;Feb
+820566;Gauteng;female;black;27;Supersport Live Events;Adult;2016/02/26;15:17:00;Midday;01:30:44;Fri;Feb
+820566;Gauteng;female;black;27;CNN;Adult;2016/02/25;20:50:00;Night;01:32:31;Thu;Feb
+820566;Gauteng;female;black;27;DStv Events 1;Adult;2016/02/24;21:18:00;Night;01:31:20;Wed;Feb
+809128;Gauteng;male;black;18;Trace TV;Teenager;2016/02/18;23:16:00;Night;01:32:42;Thu;Feb
+809128;Gauteng;male;black;18;Channel O;Teenager;2016/02/18;23:24:00;Night;01:30:00;Thu;Feb
+809128;Gauteng;male;black;18;Supersport Live Events;Teenager;2016/01/13;14:43:00;Midday;01:32:34;Wed;Jan
+809128;Gauteng;male;black;18;Trace TV;Teenager;2016/01/17;07:02:00;Morning;01:31:12;Sun;Jan
+809128;Gauteng;male;black;18;Trace TV;Teenager;2016/01/16;11:35:00;Morning;01:32:33;Sat;Jan
+809128;Gauteng;male;black;18;Africa Magic;Teenager;2016/01/12;17:12:00;Afternoon;01:33:52;Tue;Jan
+809128;Gauteng;male;black;18;E! Entertainment;Teenager;2016/01/12;20:44:00;Night;01:31:22;Tue;Jan
+809128;Gauteng;male;black;18;Cartoon Network;Teenager;2016/01/12;19:58:00;Afternoon;01:30:33;Tue;Jan
+809128;Gauteng;male;black;18;Africa Magic;Teenager;2016/01/14;16:58:00;Afternoon;02:00:06;Thu;Jan
+809128;Gauteng;male;black;18;Trace TV;Teenager;2016/03/27;22:20:00;Night;01:35:33;Sun;Mar
+809128;Gauteng;male;black;18;Trace TV;Teenager;2016/03/26;11:21:00;Morning;01:56:18;Sat;Mar
+2091688;Gauteng;male;black;34;Boomerang;Adult;2016/02/13;18:18:00;Afternoon;01:30:44;Sat;Feb
+764531;Limpopo;male;coloured;46;Supersport Live Events;Adult;2016/01/19;21:20:00;Night;01:30:50;Tue;Jan
+764531;Limpopo;male;coloured;46;E! Entertainment;Adult;2016/01/19;08:38:00;Morning;01:48:46;Tue;Jan
+2414971;Gauteng;male;white;32;Boomerang;Adult;2016/01/28;01:07:00;Morning;01:30:23;Thu;Jan
+2414971;Gauteng;male;white;32;Boomerang;Adult;2016/01/27;12:52:00;Midday;01:30:10;Wed;Jan
+2414971;Gauteng;male;white;32;Supersport Live Events;Adult;2016/01/25;10:54:00;Morning;01:31:02;Mon;Jan
+2414971;Gauteng;male;white;32;Trace TV;Adult;2016/01/25;12:46:00;Midday;01:30:30;Mon;Jan
+2414971;Gauteng;male;white;32;E! Entertainment;Adult;2016/01/26;09:23:00;Morning;01:30:22;Tue;Jan
+2414971;Gauteng;male;white;32;DStv Events 1;Adult;2016/01/24;07:43:00;Morning;01:33:05;Sun;Jan
+2414971;Gauteng;male;white;32;SuperSport Blitz;Adult;2016/01/26;17:26:00;Afternoon;01:30:30;Tue;Jan
+2414971;Gauteng;male;white;32;E! Entertainment;Adult;2016/01/23;15:40:00;Midday;01:30:30;Sat;Jan
+2414971;Gauteng;male;white;32;Supersport Live Events;Adult;2016/01/23;00:56:00;Morning;01:30:00;Sat;Jan
+2414971;Gauteng;male;white;32;Africa Magic;Adult;2016/01/22;15:51:00;Midday;01:30:07;Fri;Jan
+2414971;Gauteng;male;white;32;Trace TV;Adult;2016/01/30;16:50:00;Afternoon;01:30:33;Sat;Jan
+2414971;Gauteng;male;white;32;Supersport Live Events;Adult;2016/01/26;14:56:00;Midday;01:30:20;Tue;Jan
+2414971;Gauteng;male;white;32;SuperSport Blitz;Adult;2016/02/01;19:54:00;Afternoon;01:30:28;Mon;Feb
+2414971;Gauteng;male;white;32;Cartoon Network;Adult;2016/02/03;14:24:00;Midday;01:30:08;Wed;Feb
+2414971;Gauteng;male;white;32;Africa Magic;Adult;2016/02/03;20:24:00;Night;01:30:07;Wed;Feb
+820601;Kwazulu Natal;male;indian_asian;35;SawSee;Adult;2016/02/25;21:04:00;Night;01:30:26;Thu;Feb
+820601;Kwazulu Natal;male;indian_asian;35;Supersport Live Events;Adult;2016/02/25;19:43:00;Afternoon;01:30:00;Thu;Feb
+820601;Kwazulu Natal;male;indian_asian;35;ICC Cricket World Cup 2011;Adult;2016/03/23;10:19:00;Morning;01:35:04;Wed;Mar
+773728;Gauteng;male;None;36;Boomerang;Adult;2016/02/06;18:28:00;Afternoon;01:30:23;Sat;Feb
+585831;Gauteng;female;white;33;Boomerang;Adult;2016/01/02;11:43:00;Morning;01:31:39;Sat;Jan
+608113;Gauteng;male;black;25;Cartoon Network;Adult;2016/01/08;22:35:00;Night;01:30:00;Fri;Jan
+809183;Gauteng;male;black;44;Live on SuperSport;Adult;2016/02/08;23:32:00;Night;01:33:30;Mon;Feb
+791497;Mpumalanga;male;black;34;M-Net;Adult;2016/01/19;20:21:00;Night;01:30:57;Tue;Jan
+791497;Mpumalanga;male;black;34;Cartoon Network;Adult;2016/01/14;23:50:00;Night;01:30:02;Thu;Jan
+926319;Limpopo;male;None;28;ICC Cricket World Cup 2011;Adult;2016/03/30;15:35:00;Midday;01:38:52;Wed;Mar
+926319;Limpopo;male;None;28;Africa Magic;Adult;2016/03/30;21:52:00;Night;01:30:19;Wed;Mar
+2059372;Gauteng;male;black;33;Trace TV;Adult;2016/01/19;18:26:00;Afternoon;01:30:00;Tue;Jan
+615122;Mpumalanga;male;black;24;Supersport Live Events;Adult;2016/01/10;16:01:00;Afternoon;01:30:40;Sun;Jan
+830980;Kwazulu Natal;male;indian_asian;42;Channel O;Adult;2016/03/02;23:49:00;Night;01:31:12;Wed;Mar
+830980;Kwazulu Natal;male;indian_asian;42;ICC Cricket World Cup 2011;Adult;2016/03/18;11:46:00;Morning;02:02:46;Fri;Mar
+830980;Kwazulu Natal;male;indian_asian;42;SuperSport Blitz;Adult;2016/03/04;15:22:00;Midday;01:46:50;Fri;Mar
+830980;Kwazulu Natal;male;indian_asian;42;E! Entertainment;Adult;2016/03/04;13:46:00;Midday;01:30:44;Fri;Mar
+830980;Kwazulu Natal;male;indian_asian;42;Channel O;Adult;2016/03/05;09:25:00;Morning;01:33:42;Sat;Mar
+830980;Kwazulu Natal;male;indian_asian;42;Africa Magic;Adult;2016/03/06;23:45:00;Night;01:30:04;Sun;Mar
+830980;Kwazulu Natal;male;indian_asian;42;Boomerang;Adult;2016/03/06;20:12:00;Night;01:33:07;Sun;Mar
+830980;Kwazulu Natal;male;indian_asian;42;ICC Cricket World Cup 2011;Adult;2016/03/07;15:18:00;Midday;01:35:24;Mon;Mar
+830980;Kwazulu Natal;male;indian_asian;42;ICC Cricket World Cup 2011;Adult;2016/03/25;16:05:00;Afternoon;01:31:48;Fri;Mar
+2285956;Limpopo;male;black;40;Channel O;Adult;2016/03/04;07:53:00;Morning;01:30:09;Fri;Mar
+2285956;Limpopo;male;black;40;Channel O;Adult;2016/03/20;18:44:00;Afternoon;01:49:27;Sun;Mar
+2285956;Limpopo;male;black;40;Channel O;Adult;2016/03/07;13:11:00;Midday;01:36:54;Mon;Mar
+159156;None;None;None;0;Cartoon Network;Children;2016/03/06;12:17:00;Midday;01:30:21;Sun;Mar
+820685;Limpopo;male;indian_asian;26;ICC Cricket World Cup 2011;Adult;2016/02/26;19:08:00;Afternoon;01:30:46;Fri;Feb
+820685;Limpopo;male;indian_asian;26;MK;Adult;2016/03/02;07:13:00;Morning;01:30:20;Wed;Mar
+820685;Limpopo;male;indian_asian;26;ICC Cricket World Cup 2011;Adult;2016/02/27;10:16:00;Morning;01:30:52;Sat;Feb
+820685;Limpopo;male;indian_asian;26;ICC Cricket World Cup 2011;Adult;2016/02/28;18:38:00;Afternoon;01:34:26;Sun;Feb
+832021;Gauteng;female;black;32;Africa Magic;Adult;2016/03/11;12:25:00;Midday;01:31:54;Fri;Mar
+832021;Gauteng;female;black;32;Trace TV;Adult;2016/03/01;15:13:00;Midday;01:30:39;Tue;Mar
+832021;Gauteng;female;black;32;Cartoon Network;Adult;2016/03/01;15:11:00;Midday;01:30:14;Tue;Mar
+820695;Gauteng;male;black;33;ICC Cricket World Cup 2011;Adult;2016/03/03;11:58:00;Morning;01:34:42;Thu;Mar
+820695;Gauteng;male;black;33;Supersport Live Events;Adult;2016/03/07;21:45:00;Night;01:30:00;Mon;Mar
+939925;Gauteng;male;indian_asian;26;ICC Cricket World Cup 2011;Adult;2016/03/29;13:20:00;Midday;01:46:18;Tue;Mar
+939925;Gauteng;male;indian_asian;26;Trace TV;Adult;2016/03/29;20:36:00;Night;01:31:36;Tue;Mar
+788942;Western Cape;male;coloured;32;Boomerang;Adult;2016/02/11;06:31:00;Morning;01:30:33;Thu;Feb
+2368852;Mpumalanga;male;black;35;Boomerang;Adult;2016/02/19;17:46:00;Afternoon;01:30:43;Fri;Feb
+2368852;Mpumalanga;male;black;35;Channel O;Adult;2016/01/01;21:20:00;Night;01:33:27;Fri;Jan
+2368852;Mpumalanga;male;black;35;Cartoon Network;Adult;2016/01/01;03:39:00;Morning;01:30:00;Fri;Jan
+2368852;Mpumalanga;male;black;35;Trace TV;Adult;2016/01/03;22:02:00;Night;01:33:27;Sun;Jan
+2368852;Mpumalanga;male;black;35;CNN;Adult;2016/01/04;12:06:00;Midday;01:30:44;Mon;Jan
+2368852;Mpumalanga;male;black;35;Africa Magic;Adult;2016/01/03;06:23:00;Morning;01:30:00;Sun;Jan
+2368852;Mpumalanga;male;black;35;Boomerang;Adult;2016/01/15;15:34:00;Midday;01:31:25;Fri;Jan
+2368852;Mpumalanga;male;black;35;Africa Magic;Adult;2016/01/07;05:53:00;Morning;01:30:00;Thu;Jan
+2368852;Mpumalanga;male;black;35;Cartoon Network;Adult;2016/02/01;16:39:00;Afternoon;01:41:11;Mon;Feb
+2368852;Mpumalanga;male;black;35;Vuzu;Adult;2016/01/03;23:20:00;Night;01:30:12;Sun;Jan
+2368852;Mpumalanga;male;black;35;Channel O;Adult;2016/01/21;22:26:00;Night;01:44:33;Thu;Jan
+2368852;Mpumalanga;male;black;35;Africa Magic;Adult;2016/02/01;13:39:00;Midday;01:38:03;Mon;Feb
+2368852;Mpumalanga;male;black;35;Vuzu;Adult;2016/01/15;20:55:00;Night;01:31:40;Fri;Jan
+2368852;Mpumalanga;male;black;35;MK;Adult;2016/03/23;08:07:00;Morning;01:30:15;Wed;Mar
+2368852;Mpumalanga;male;black;35;E! Entertainment;Adult;2016/03/07;19:34:00;Afternoon;01:33:48;Mon;Mar
+2368852;Mpumalanga;male;black;35;SawSee;Adult;2016/03/10;12:32:00;Midday;01:39:58;Thu;Mar
+869202;Mpumalanga;female;None;36;CNN;Adult;2016/03/13;08:28:00;Morning;01:30:00;Sun;Mar
+832036;Mpumalanga;male;black;46;Boomerang;Adult;2016/01/28;18:35:00;Afternoon;01:41:08;Thu;Jan
+788945;Free State;male;black;33;Africa Magic;Adult;2016/02/14;03:31:00;Morning;01:31:01;Sun;Feb
+809249;Kwazulu Natal;male;black;38;Channel O;Adult;2016/02/20;19:17:00;Afternoon;01:42:15;Sat;Feb
+809249;Kwazulu Natal;male;black;38;Channel O;Adult;2016/02/17;07:48:00;Morning;01:31:30;Wed;Feb
+809249;Kwazulu Natal;male;black;38;Africa Magic;Adult;2016/02/28;23:15:00;Night;01:46:53;Sun;Feb
+866478;Western Cape;male;white;31;Supersport Live Events;Adult;2016/03/11;18:58:00;Afternoon;01:30:44;Fri;Mar
+793835;Free State;male;white;30;M-Net;Adult;2016/01/18;01:22:00;Morning;01:30:12;Mon;Jan
+98046;Kwazulu Natal;male;black;31;Africa Magic;Adult;2016/01/04;22:41:00;Night;01:30:14;Mon;Jan
+98046;Kwazulu Natal;male;black;31;Trace TV;Adult;2016/01/07;22:15:00;Night;01:36:33;Thu;Jan
+98046;Kwazulu Natal;male;black;31;Channel O;Adult;2016/01/13;20:36:00;Night;01:32:48;Wed;Jan
+100538;None;None;None;0;Supersport Live Events;Children;2016/03/24;16:25:00;Afternoon;03:02:30;Thu;Mar
+2368945;Western Cape;female;coloured;42;ICC Cricket World Cup 2011;Adult;2016/02/20;05:54:00;Morning;01:30:28;Sat;Feb
+2368945;Western Cape;female;coloured;42;ICC Cricket World Cup 2011;Adult;2016/03/03;09:04:00;Morning;03:39:56;Thu;Mar
+1385756;Western Cape;female;black;34;M-Net;Adult;2016/01/17;11:31:00;Morning;01:33:48;Sun;Jan
+1385756;Western Cape;female;black;34;SawSee;Adult;2016/01/05;01:20:00;Morning;01:43:15;Tue;Jan
+530495;Gauteng;female;black;30;SawSee;Adult;2016/01/09;19:20:00;Afternoon;01:30:17;Sat;Jan
+789004;Northern Cape;male;None;36;Africa Magic;Adult;2016/02/22;21:17:00;Night;01:32:09;Mon;Feb
+789004;Northern Cape;male;None;36;Channel O;Adult;2016/02/04;10:25:00;Morning;01:47:21;Thu;Feb
+789004;Northern Cape;male;None;36;SuperSport Blitz;Adult;2016/02/07;15:59:00;Midday;01:32:20;Sun;Feb
+789004;Northern Cape;male;None;36;Africa Magic;Adult;2016/02/10;21:42:00;Night;01:31:29;Wed;Feb
+789004;Northern Cape;male;None;36;Boomerang;Adult;2016/02/04;14:23:00;Midday;01:30:51;Thu;Feb
+789004;Northern Cape;male;None;36;Africa Magic;Adult;2016/02/09;12:58:00;Midday;01:30:33;Tue;Feb
+789004;Northern Cape;male;None;36;Supersport Live Events;Adult;2016/02/12;13:54:00;Midday;01:32:58;Fri;Feb
+789004;Northern Cape;male;None;36;Africa Magic;Adult;2016/02/23;14:03:00;Midday;01:32:03;Tue;Feb
+2216346;Western Cape;female;coloured;48;Boomerang;Adult;2016/02/13;22:57:00;Night;01:33:24;Sat;Feb
+1999889;Western Cape;male;coloured;34;ICC Cricket World Cup 2011;Adult;2016/02/24;13:35:00;Midday;01:33:48;Wed;Feb
+1999889;Western Cape;male;coloured;34;Supersport Live Events;Adult;2016/02/16;18:06:00;Afternoon;01:52:30;Tue;Feb
+1999889;Western Cape;male;coloured;34;Supersport Live Events;Adult;2016/01/26;06:46:00;Morning;01:31:50;Tue;Jan
+1999889;Western Cape;male;coloured;34;Supersport Live Events;Adult;2016/01/26;06:49:00;Morning;01:31:44;Tue;Jan
+1999889;Western Cape;male;coloured;34;Break in transmission;Adult;2016/02/27;17:00:00;Afternoon;01:30:15;Sat;Feb
+1999889;Western Cape;male;coloured;34;Trace TV;Adult;2016/02/08;11:53:00;Morning;01:32:48;Mon;Feb
+2426231;Gauteng;male;indian_asian;32;ICC Cricket World Cup 2011;Adult;2016/03/11;12:18:00;Midday;01:40:26;Fri;Mar
+2426231;Gauteng;male;indian_asian;32;ICC Cricket World Cup 2011;Adult;2016/03/23;10:31:00;Morning;01:37:32;Wed;Mar
+2426231;Gauteng;male;indian_asian;32;ICC Cricket World Cup 2011;Adult;2016/03/23;10:44:00;Morning;01:37:50;Wed;Mar
+2426231;Gauteng;male;indian_asian;32;ICC Cricket World Cup 2011;Adult;2016/03/23;14:20:00;Midday;01:32:02;Wed;Mar
+2426231;Gauteng;male;indian_asian;32;CNN;Adult;2016/03/05;13:23:00;Midday;01:30:14;Sat;Mar
+2426231;Gauteng;male;indian_asian;32;kykNET;Adult;2016/03/06;00:31:00;Morning;01:31:42;Sun;Mar
+2426231;Gauteng;male;indian_asian;32;SuperSport Blitz;Adult;2016/03/26;10:29:00;Morning;01:32:34;Sat;Mar
+803869;Mpumalanga;male;None;43;Supersport Live Events;Adult;2016/03/08;19:36:00;Afternoon;01:31:10;Tue;Mar
+809323;Mpumalanga;female;coloured;35;Trace TV;Adult;2016/02/24;12:24:00;Midday;01:30:39;Wed;Feb
+809323;Mpumalanga;female;coloured;35;Trace TV;Adult;2016/02/04;12:18:00;Midday;01:33:45;Thu;Feb
+930443;Gauteng;female;indian_asian;47;Boomerang;Adult;2016/03/30;22:24:00;Night;01:30:13;Wed;Mar
+894260;Western Cape;male;white;39;Boomerang;Adult;2016/03/17;18:32:00;Afternoon;01:30:33;Thu;Mar
+2203762;Mpumalanga;male;black;31;Trace TV;Adult;2016/02/16;16:57:00;Afternoon;01:30:48;Tue;Feb
+2203762;Mpumalanga;male;black;31;Supersport Live Events;Adult;2016/02/04;07:56:00;Morning;01:31:04;Thu;Feb
+2203762;Mpumalanga;male;black;31;Africa Magic;Adult;2016/01/24;21:08:00;Night;01:30:18;Sun;Jan
+2203762;Mpumalanga;male;black;31;Supersport Live Events;Adult;2016/01/25;21:20:00;Night;01:30:00;Mon;Jan
+2203762;Mpumalanga;male;black;31;CNN;Adult;2016/02/03;12:14:00;Midday;01:31:16;Wed;Feb
+2203762;Mpumalanga;male;black;31;Sawsee;Adult;2016/02/08;21:04:00;Night;01:30:48;Mon;Feb
+789054;Western Cape;male;black;42;kykNET;Adult;2016/01/30;19:03:00;Afternoon;01:44:51;Sat;Jan
+789054;Western Cape;male;black;42;CNN;Adult;2016/02/09;00:27:00;Morning;01:31:42;Tue;Feb
+809362;Gauteng;male;black;36;E! Entertainment;Adult;2016/02/15;17:02:00;Afternoon;01:37:52;Mon;Feb
+809362;Gauteng;male;black;36;Africa Magic;Adult;2016/02/15;21:58:00;Night;01:30:00;Mon;Feb
+809362;Gauteng;male;black;36;Africa Magic;Adult;2016/02/14;15:50:00;Midday;01:33:43;Sun;Feb
+869328;Gauteng;female;indian_asian;42;Cartoon Network;Adult;2016/02/24;17:59:00;Afternoon;01:31:01;Wed;Feb
+869328;Gauteng;female;indian_asian;42;Cartoon Network;Adult;2016/03/04;18:11:00;Afternoon;01:30:36;Fri;Mar
+869328;Gauteng;female;indian_asian;42;SuperSport Blitz;Adult;2016/03/19;17:16:00;Afternoon;01:33:52;Sat;Mar
+789064;Western Cape;female;coloured;27;Trace TV;Adult;2016/02/14;16:24:00;Afternoon;01:32:18;Sun;Feb
+789064;Western Cape;female;coloured;27;Supersport Live Events;Adult;2016/02/01;08:27:00;Morning;01:33:00;Mon;Feb
+809382;Gauteng;male;black;24;Africa Magic;Adult;2016/02/20;22:15:00;Night;01:44:31;Sat;Feb
+809382;Gauteng;male;black;24;CNN;Adult;2016/02/28;19:27:00;Afternoon;01:34:38;Sun;Feb
+786452;Gauteng;male;white;28;Supersport Live Events;Adult;2016/03/11;18:50:00;Afternoon;01:31:22;Fri;Mar
+786452;Gauteng;male;white;28;Boomerang;Adult;2016/02/29;01:09:00;Morning;01:50:51;Mon;Feb
+940108;Mpumalanga;male;black;22;Trace TV;Adult;2016/03/30;18:31:00;Afternoon;01:30:27;Wed;Mar
+940108;Mpumalanga;male;black;22;ICC Cricket World Cup 2011;Adult;2016/03/26;17:39:00;Afternoon;01:33:14;Sat;Mar
+940108;Mpumalanga;male;black;22;Cartoon Network;Adult;2016/03/29;08:47:00;Morning;01:30:00;Tue;Mar
+809398;Western Cape;male;black;37;Supersport Live Events;Adult;2016/01/05;22:27:00;Night;01:56:06;Tue;Jan
+886109;Eastern Cape;male;indian_asian;31;ICC Cricket World Cup 2011;Adult;2016/03/20;12:10:00;Midday;01:32:36;Sun;Mar
+855864;Kwazulu Natal;female;coloured;26;SawSee;Adult;2016/03/27;11:33:00;Morning;01:30:38;Sun;Mar
+797707;North West;male;white;41;Supersport Live Events;Adult;2016/02/17;17:41:00;Afternoon;01:32:04;Wed;Feb
+809448;Western Cape;male;coloured;20;Cartoon Network;Adult;2016/02/19;15:35:00;Midday;01:32:46;Fri;Feb
+809448;Western Cape;male;coloured;20;Supersport Live Events;Adult;2016/03/05;20:49:00;Night;01:34:44;Sat;Mar
+919677;Gauteng;female;white;26;Boomerang;Adult;2016/03/27;21:16:00;Night;01:30:16;Sun;Mar
+820978;Northern Cape;male;black;39;Cartoon Network;Adult;2016/02/26;08:06:00;Morning;01:31:06;Fri;Feb
+820978;Northern Cape;male;black;39;Africa Magic;Adult;2016/03/02;15:19:00;Midday;01:30:58;Wed;Mar
+820978;Northern Cape;male;black;39;Africa Magic;Adult;2016/03/11;16:25:00;Afternoon;01:31:02;Fri;Mar
+820978;Northern Cape;male;black;39;CNN;Adult;2016/03/23;07:40:00;Morning;02:05:50;Wed;Mar
+820978;Northern Cape;male;black;39;Supersport Live Events;Adult;2016/03/20;16:39:00;Afternoon;01:30:24;Sun;Mar
+820978;Northern Cape;male;black;39;SuperSport Blitz;Adult;2016/02/28;16:34:00;Afternoon;01:33:32;Sun;Feb
+820978;Northern Cape;male;black;39;Boomerang;Adult;2016/03/09;16:51:00;Afternoon;01:32:25;Wed;Mar
+820978;Northern Cape;male;black;39;CNN;Adult;2016/03/09;15:56:00;Midday;01:30:20;Wed;Mar
+820978;Northern Cape;male;black;39;Boomerang;Adult;2016/03/25;19:50:00;Afternoon;01:45:58;Fri;Mar
+820978;Northern Cape;male;black;39;ICC Cricket World Cup 2011;Adult;2016/03/25;17:54:00;Afternoon;01:47:08;Fri;Mar
+789148;Western Cape;male;coloured;36;ICC Cricket World Cup 2011;Adult;2016/03/06;07:39:00;Morning;01:32:38;Sun;Mar
+789156;Mpumalanga;male;black;23;Channel O;Adult;2016/01/16;17:48:00;Afternoon;01:30:45;Sat;Jan
+789156;Mpumalanga;male;black;23;Boomerang;Adult;2016/01/16;21:23:00;Night;01:52:44;Sat;Jan
+789156;Mpumalanga;male;black;23;Trace TV;Adult;2016/01/15;07:06:00;Morning;01:33:36;Fri;Jan
+821010;Limpopo;male;indian_asian;33;ICC Cricket World Cup 2011;Adult;2016/02/24;12:34:00;Midday;01:32:10;Wed;Feb
+2360384;Mpumalanga;male;black;37;SuperSport Blitz;Adult;2016/02/21;12:17:00;Midday;01:35:58;Sun;Feb
+2360384;Mpumalanga;male;black;37;SuperSport Blitz;Adult;2016/02/02;12:36:00;Midday;01:30:00;Tue;Feb
+2360384;Mpumalanga;male;black;37;Boomerang;Adult;2016/03/11;18:32:00;Afternoon;01:30:19;Fri;Mar
+2360384;Mpumalanga;male;black;37;SuperSport Blitz;Adult;2016/01/12;11:26:00;Morning;01:34:14;Tue;Jan
+2360384;Mpumalanga;male;black;37;SawSee;Adult;2016/01/13;16:06:00;Afternoon;01:34:42;Wed;Jan
+2360384;Mpumalanga;male;black;37;Trace TV;Adult;2016/03/16;14:10:00;Midday;01:30:36;Wed;Mar
+2360384;Mpumalanga;male;black;37;SuperSport Blitz;Adult;2016/02/23;06:48:00;Morning;01:36:50;Tue;Feb
+2360384;Mpumalanga;male;black;37;Channel O;Adult;2016/03/01;18:37:00;Afternoon;02:11:06;Tue;Mar
+809500;Gauteng;male;coloured;28;SuperSport Blitz;Adult;2016/02/19;08:03:00;Morning;01:31:58;Fri;Feb
+809500;Gauteng;male;coloured;28;Cartoon Network;Adult;2016/02/20;08:37:00;Morning;01:51:00;Sat;Feb
+832310;Kwazulu Natal;male;indian_asian;37;SawSee;Adult;2016/03/05;17:43:00;Afternoon;01:30:13;Sat;Mar
+2360394;Gauteng;male;white;43;Supersport Live Events;Adult;2016/02/25;09:40:00;Morning;01:33:30;Thu;Feb
+832320;Gauteng;female;black;32;Channel O;Adult;2016/03/15;17:12:00;Afternoon;02:46:12;Tue;Mar
+832320;Gauteng;female;black;32;Channel O;Adult;2016/02/28;12:22:00;Midday;03:19:03;Sun;Feb
+809516;Mpumalanga;female;black;23;Trace TV;Adult;2016/02/21;14:42:00;Midday;01:31:45;Sun;Feb
+809516;Mpumalanga;female;black;23;Trace TV;Adult;2016/02/22;07:26:00;Morning;02:43:00;Mon;Feb
+809516;Mpumalanga;female;black;23;Africa Magic;Adult;2016/02/21;17:51:00;Afternoon;01:30:07;Sun;Feb
+2203948;Kwazulu Natal;male;indian_asian;44;SuperSport Blitz;Adult;2016/03/29;07:48:00;Morning;01:30:54;Tue;Mar
+751018;North West;male;white;27;M-Net;Adult;2016/01/28;19:03:00;Afternoon;01:30:35;Thu;Jan
+751018;North West;male;white;27;E! Entertainment;Adult;2016/01/28;18:57:00;Afternoon;01:32:00;Thu;Jan
+777525;Northern Cape;male;indian_asian;34;Supersport Live Events;Adult;2016/03/03;16:46:00;Afternoon;01:38:56;Thu;Mar
+466620;Northern Cape;male;black;27;Boomerang;Adult;2016/01/11;21:27:00;Night;01:30:00;Mon;Jan
+809578;Limpopo;female;black;23;Boomerang;Adult;2016/02/19;03:49:00;Morning;01:30:00;Fri;Feb
+809578;Limpopo;female;black;23;Africa Magic;Adult;2016/02/21;15:04:00;Midday;01:30:06;Sun;Feb
+809578;Limpopo;female;black;23;Channel O;Adult;2016/02/19;14:51:00;Midday;01:35:00;Fri;Feb
+821120;None;None;None;0;ICC Cricket World Cup 2011;Children;2016/03/02;11:28:00;Morning;01:38:02;Wed;Mar
+821120;None;None;None;0;ICC Cricket World Cup 2011;Children;2016/03/30;18:42:00;Afternoon;01:39:16;Wed;Mar
+893107;Gauteng;male;white;24;Cartoon Network;Adult;2016/03/26;17:56:00;Afternoon;01:33:00;Sat;Mar
+893107;Gauteng;male;white;24;Cartoon Network;Adult;2016/03/26;12:27:00;Midday;01:31:14;Sat;Mar
+1107332;Gauteng;male;black;23;SuperSport Blitz;Adult;2016/01/24;11:06:00;Morning;01:30:08;Sun;Jan
+1107332;Gauteng;male;black;23;Supersport Live Events;Adult;2016/01/22;14:24:00;Midday;01:30:10;Fri;Jan
+1107332;Gauteng;male;black;23;E! Entertainment;Adult;2016/01/28;21:39:00;Night;01:35:44;Thu;Jan
+789254;Mpumalanga;male;black;24;SuperSport Blitz;Adult;2016/01/16;13:43:00;Midday;01:30:48;Sat;Jan
+789254;Mpumalanga;male;black;24;Channel O;Adult;2016/01/19;20:27:00;Night;01:30:03;Tue;Jan
+789254;Mpumalanga;male;black;24;Channel O;Adult;2016/01/20;21:00:00;Night;01:30:03;Wed;Jan
+789254;Mpumalanga;male;black;24;Channel O;Adult;2016/01/22;20:46:00;Night;01:36:48;Fri;Jan
+789254;Mpumalanga;male;black;24;Trace TV;Adult;2016/01/24;08:58:00;Morning;01:46:03;Sun;Jan
+789254;Mpumalanga;male;black;24;Channel O;Adult;2016/01/20;22:04:00;Night;01:38:12;Wed;Jan
+789254;Mpumalanga;male;black;24;Africa Magic;Adult;2016/01/23;08:25:00;Morning;01:30:04;Sat;Jan
+789254;Mpumalanga;male;black;24;Channel O;Adult;2016/01/19;16:13:00;Afternoon;01:30:51;Tue;Jan
+789254;Mpumalanga;male;black;24;Channel O;Adult;2016/01/23;22:31:00;Night;01:30:45;Sat;Jan
+789254;Mpumalanga;male;black;24;Supersport Live Events;Adult;2016/01/16;13:42:00;Midday;01:30:22;Sat;Jan
+789254;Mpumalanga;male;black;24;SuperSport Blitz;Adult;2016/01/25;10:50:00;Morning;01:30:00;Mon;Jan
+789254;Mpumalanga;male;black;24;Supersport Live Events;Adult;2016/01/16;17:05:00;Afternoon;01:33:56;Sat;Jan
+789256;Mpumalanga;male;black;27;Supersport Live Events;Adult;2016/01/15;20:00:00;Night;01:42:44;Fri;Jan
+789256;Mpumalanga;male;black;27;Trace TV;Adult;2016/01/06;12:34:00;Midday;01:32:03;Wed;Jan
+789256;Mpumalanga;male;black;27;Boomerang;Adult;2016/01/24;05:41:00;Morning;01:33:09;Sun;Jan
+582896;Western Cape;male;white;19;Trace TV;Teenager;2016/01/05;23:50:00;Night;01:30:00;Tue;Jan
+582896;Western Cape;male;white;19;Trace TV;Teenager;2016/01/02;13:24:00;Midday;01:30:00;Sat;Jan
+789288;Limpopo;male;indian_asian;25;Africa Magic;Adult;2016/02/19;22:34:00;Night;01:30:23;Fri;Feb
+789288;Limpopo;male;indian_asian;25;Africa Magic;Adult;2016/02/07;13:53:00;Midday;01:30:23;Sun;Feb
+789288;Limpopo;male;indian_asian;25;SuperSport Blitz;Adult;2016/02/06;22:11:00;Night;01:30:00;Sat;Feb
+705439;Limpopo;male;black;19;Channel O;Teenager;2016/02/08;09:35:00;Morning;01:30:00;Mon;Feb
+882688;Limpopo;male;indian_asian;36;SuperSport Blitz;Adult;2016/03/19;12:52:00;Midday;01:30:54;Sat;Mar
+2000160;North West;male;black;43;SuperSport Blitz;Adult;2016/03/04;19:19:00;Afternoon;02:21:46;Fri;Mar
+2000160;North West;male;black;43;SuperSport Blitz;Adult;2016/02/09;20:48:00;Night;01:47:08;Tue;Feb
+2000160;North West;male;black;43;CNN;Adult;2016/03/25;13:40:00;Midday;03:31:24;Fri;Mar
+2000160;North West;male;black;43;CNN;Adult;2016/02/08;02:41:00;Morning;01:30:34;Mon;Feb
+869588;Western Cape;female;coloured;27;Trace TV;Adult;2016/03/03;13:25:00;Midday;01:59:12;Thu;Mar
+869588;Western Cape;female;coloured;27;ICC Cricket World Cup 2011;Adult;2016/03/08;13:59:00;Midday;01:32:06;Tue;Mar
+869588;Western Cape;female;coloured;27;ICC Cricket World Cup 2011;Adult;2016/03/12;13:22:00;Midday;03:39:56;Sat;Mar
+940392;Gauteng;female;black;29;SuperSport Blitz;Adult;2016/03/02;20:51:00;Night;01:30:20;Wed;Mar
+940392;Gauteng;female;black;29;Trace TV;Adult;2016/03/25;21:12:00;Night;01:30:36;Fri;Mar
+1107441;Gauteng;female;black;16;Channel O;Teenager;2016/03/01;14:26:00;Midday;01:30:06;Tue;Mar
+604047;Kwazulu Natal;male;black;35;Channel O;Adult;2016/01/07;20:43:00;Night;01:39:33;Thu;Jan
+940427;Gauteng;male;indian_asian;24;Africa Magic;Adult;2016/03/31;19:55:00;Afternoon;01:30:25;Thu;Mar
+940427;Gauteng;male;indian_asian;24;ICC Cricket World Cup 2011;Adult;2016/03/30;15:06:00;Midday;02:05:02;Wed;Mar
+866941;Kwazulu Natal;male;black;29;Channel O;Adult;2016/03/13;23:26:00;Night;01:56:33;Sun;Mar
+866941;Kwazulu Natal;male;black;29;Trace TV;Adult;2016/03/13;23:45:00;Night;01:49:06;Sun;Mar
+860206;Northern Cape;male;coloured;26;ICC Cricket World Cup 2011;Adult;2016/03/06;14:06:00;Midday;01:30:00;Sun;Mar
+860206;Northern Cape;male;coloured;26;M-Net;Adult;2016/03/06;16:13:00;Afternoon;01:31:19;Sun;Mar
+2426866;Mpumalanga;male;indian_asian;30;ICC Cricket World Cup 2011;Adult;2016/03/16;12:33:00;Midday;02:04:26;Wed;Mar
+777655;Mpumalanga;male;black;28;Supersport Live Events;Adult;2016/01/30;20:59:00;Night;01:30:00;Sat;Jan
+2369649;Western Cape;male;coloured;39;SawSee;Adult;2016/01/15;12:39:00;Midday;01:30:31;Fri;Jan
+2369649;Western Cape;male;coloured;39;Cartoon Network;Adult;2016/01/02;16:37:00;Afternoon;01:31:47;Sat;Jan
+893227;Eastern Cape;male;black;27;SuperSport Blitz;Adult;2016/03/18;08:28:00;Morning;01:30:28;Fri;Mar
+893227;Eastern Cape;male;black;27;Supersport Live Events;Adult;2016/03/06;17:13:00;Afternoon;01:30:10;Sun;Mar
+824262;Gauteng;male;black;47;Supersport Live Events;Adult;2016/02/26;19:58:00;Afternoon;01:30:00;Fri;Feb
+809744;Kwazulu Natal;male;indian_asian;29;ICC Cricket World Cup 2011;Adult;2016/02/22;17:32:00;Afternoon;01:30:00;Mon;Feb
+809744;Kwazulu Natal;male;indian_asian;29;ICC Cricket World Cup 2011;Adult;2016/02/24;17:21:00;Afternoon;01:30:50;Wed;Feb
+809744;Kwazulu Natal;male;indian_asian;29;ICC Cricket World Cup 2011;Adult;2016/02/24;15:17:00;Midday;01:30:00;Wed;Feb
+809744;Kwazulu Natal;male;indian_asian;29;ICC Cricket World Cup 2011;Adult;2016/02/24;15:18:00;Midday;01:30:00;Wed;Feb
+809744;Kwazulu Natal;male;indian_asian;29;Supersport Live Events;Adult;2016/03/06;15:32:00;Midday;01:30:44;Sun;Mar
+809744;Kwazulu Natal;male;indian_asian;29;Cartoon Network;Adult;2016/02/23;15:11:00;Midday;01:30:00;Tue;Feb
+930873;Kwazulu Natal;male;indian_asian;28;ICC Cricket World Cup 2011;Adult;2016/03/30;19:03:00;Afternoon;01:31:20;Wed;Mar
+549969;Mpumalanga;male;indian_asian;21;Supersport Live Events;Adult;2016/01/06;14:51:00;Midday;02:30:02;Wed;Jan
+549969;Mpumalanga;male;indian_asian;21;ICC Cricket World Cup 2011;Adult;2016/03/20;14:06:00;Midday;01:30:36;Sun;Mar
+549969;Mpumalanga;male;indian_asian;21;Supersport Live Events;Adult;2016/03/24;10:43:00;Morning;01:30:50;Thu;Mar
+772551;Western Cape;male;other;51;Cartoon Network;Adult;2016/01/22;15:23:00;Midday;01:30:22;Fri;Jan
+780045;Kwazulu Natal;male;white;29;Boomerang;Adult;2016/02/07;16:12:00;Afternoon;01:30:13;Sun;Feb
+1519602;Gauteng;male;black;34;ICC Cricket World Cup 2011;Adult;2016/03/25;19:00:00;Afternoon;01:30:00;Fri;Mar
+2369759;Limpopo;male;indian_asian;30;Supersport Live Events;Adult;2016/01/21;14:57:00;Midday;01:40:32;Thu;Jan
+2369759;Limpopo;male;indian_asian;30;ICC Cricket World Cup 2011;Adult;2016/03/23;10:36:00;Morning;01:31:14;Wed;Mar
+2369761;Gauteng;male;black;39;Africa Magic;Adult;2016/02/18;21:11:00;Night;01:30:47;Thu;Feb
+2369761;Gauteng;male;black;39;Supersport Live Events;Adult;2016/02/05;20:58:00;Night;01:31:28;Fri;Feb
+2369761;Gauteng;male;black;39;Africa Magic;Adult;2016/02/21;02:08:00;Morning;01:30:24;Sun;Feb
+2369761;Gauteng;male;black;39;Channel O;Adult;2016/03/10;04:03:00;Morning;01:55:51;Thu;Mar
+821351;Western Cape;male;coloured;27;Trace TV;Adult;2016/02/21;08:43:00;Morning;01:43:54;Sun;Feb
+821351;Western Cape;male;coloured;27;ICC Cricket World Cup 2011;Adult;2016/03/12;13:14:00;Midday;01:32:44;Sat;Mar
+940522;Gauteng;male;black;29;SawSee;Adult;2016/03/14;22:44:00;Night;01:32:17;Mon;Mar
+867034;Gauteng;male;None;26;CNN;Adult;2016/03/06;19:31:00;Afternoon;01:31:08;Sun;Mar
+821371;Eastern Cape;female;None;113;Channel O;Old_Age;2016/02/27;22:25:00;Night;01:43:42;Sat;Feb
+821371;Eastern Cape;female;None;113;Africa Magic;Old_Age;2016/02/28;11:46:00;Morning;01:30:08;Sun;Feb
+2369849;Northern Cape;female;black;39;Cartoon Network;Adult;2016/02/25;13:04:00;Midday;01:43:54;Thu;Feb
+2369849;Northern Cape;female;black;39;Channel O;Adult;2016/03/19;03:07:00;Morning;01:36:00;Sat;Mar
+2369849;Northern Cape;female;black;39;Cartoon Network;Adult;2016/03/19;05:38:00;Morning;02:33:02;Sat;Mar
+2369849;Northern Cape;female;black;39;Channel O;Adult;2016/02/06;15:48:00;Midday;01:31:33;Sat;Feb
+2369849;Northern Cape;female;black;39;Cartoon Network;Adult;2016/03/29;12:02:00;Midday;02:03:53;Tue;Mar
+2000313;North West;male;black;27;DStv Events 1;Adult;2016/03/31;21:00:00;Night;01:32:05;Thu;Mar
+809825;Gauteng;male;black;32;Supersport Live Events;Adult;2016/02/19;08:55:00;Morning;01:49:38;Fri;Feb
+809825;Gauteng;male;black;32;Supersport Live Events;Adult;2016/02/19;23:34:00;Night;01:30:30;Fri;Feb
+809825;Gauteng;male;black;32;Supersport Live Events;Adult;2016/02/19;23:43:00;Night;01:33:56;Fri;Feb
+809825;Gauteng;male;black;32;Supersport Live Events;Adult;2016/02/19;23:49:00;Night;01:30:54;Fri;Feb
+809825;Gauteng;male;black;32;Supersport Live Events;Adult;2016/02/19;23:57:00;Night;01:30:00;Fri;Feb
+809825;Gauteng;male;black;32;Africa Magic;Adult;2016/02/16;19:22:00;Afternoon;01:30:18;Tue;Feb
+809825;Gauteng;male;black;32;Boomerang;Adult;2016/02/17;06:53:00;Morning;01:30:00;Wed;Feb
+809825;Gauteng;male;black;32;Africa Magic;Adult;2016/02/17;12:04:00;Midday;01:30:33;Wed;Feb
+809825;Gauteng;male;black;32;Africa Magic;Adult;2016/02/17;07:46:00;Morning;01:30:27;Wed;Feb
+809825;Gauteng;male;black;32;SuperSport Blitz;Adult;2016/02/17;18:31:00;Afternoon;01:31:36;Wed;Feb
+893341;Kwazulu Natal;male;white;9;Cartoon Network;Children;2016/03/20;08:18:00;Morning;01:31:08;Sun;Mar
+867105;North West;male;black;34;Boomerang;Adult;2016/03/09;09:32:00;Morning;01:32:49;Wed;Mar
+867105;North West;male;black;34;Channel O;Adult;2016/03/09;18:53:00;Afternoon;01:33:39;Wed;Mar
+559277;Western Cape;male;None;26;E! Entertainment;Adult;2016/01/01;15:04:00;Midday;01:31:36;Fri;Jan
+28363;Gauteng;male;black;37;Supersport Live Events;Adult;2016/01/31;19:18:00;Afternoon;01:30:00;Sun;Jan
+832678;Free State;male;black;33;E! Entertainment;Adult;2016/02/28;20:11:00;Night;01:31:46;Sun;Feb
+832678;Free State;male;black;33;Channel O;Adult;2016/02/28;20:22:00;Night;02:01:42;Sun;Feb
+2287875;Gauteng;male;black;46;CNN;Adult;2016/02/07;06:05:00;Morning;01:35:17;Sun;Feb
+2287875;Gauteng;male;black;46;Cartoon Network;Adult;2016/01/17;20:52:00;Night;01:31:33;Sun;Jan
+2287875;Gauteng;male;black;46;CNN;Adult;2016/01/16;07:58:00;Morning;01:31:33;Sat;Jan
+2287875;Gauteng;male;black;46;CNN;Adult;2016/01/18;05:53:00;Morning;01:40:36;Mon;Jan
+2287875;Gauteng;male;black;46;CNN;Adult;2016/01/26;19:17:00;Afternoon;01:31:27;Tue;Jan
+2287875;Gauteng;male;black;46;Supersport Live Events;Adult;2016/01/18;19:31:00;Afternoon;01:33:04;Mon;Jan
+2287875;Gauteng;male;black;46;ICC Cricket World Cup 2011;Adult;2016/03/23;13:28:00;Midday;01:30:00;Wed;Mar
+2287875;Gauteng;male;black;46;CNN;Adult;2016/02/09;08:30:00;Morning;01:33:03;Tue;Feb
+804404;Mpumalanga;male;black;33;Africa Magic;Adult;2016/03/13;14:07:00;Midday;01:31:24;Sun;Mar
+804404;Mpumalanga;male;black;33;Supersport Live Events;Adult;2016/03/12;19:23:00;Afternoon;01:30:00;Sat;Mar
+641172;Limpopo;male;black;32;Channel O;Adult;2016/01/01;13:44:00;Midday;01:31:57;Fri;Jan
+2369968;Mpumalanga;male;black;26;Africa Magic;Adult;2016/01/07;21:04:00;Night;01:48:44;Thu;Jan
+2369968;Mpumalanga;male;black;26;SuperSport Blitz;Adult;2016/01/08;14:14:00;Midday;01:31:02;Fri;Jan
+820077;Western Cape;male;coloured;40;Cartoon Network;Adult;2016/03/22;00:26:00;Morning;02:04:06;Tue;Mar
+851705;Eastern Cape;male;black;40;SuperSport Blitz;Adult;2016/03/06;15:43:00;Midday;01:31:36;Sun;Mar
+851705;Eastern Cape;male;black;40;E! Entertainment;Adult;2016/03/07;14:20:00;Midday;01:33:06;Mon;Mar
+1122561;Kwazulu Natal;male;white;19;E! Entertainment;Teenager;2016/03/26;11:59:00;Morning;01:30:28;Sat;Mar
+809892;Gauteng;male;black;27;Channel O;Adult;2016/03/02;19:49:00;Afternoon;01:34:54;Wed;Mar
+809892;Gauteng;male;black;27;Trace TV;Adult;2016/03/02;19:56:00;Afternoon;01:50:48;Wed;Mar
+809892;Gauteng;male;black;27;Supersport Live Events;Adult;2016/03/02;15:22:00;Midday;01:30:54;Wed;Mar
+809892;Gauteng;male;black;27;Trace TV;Adult;2016/03/06;18:57:00;Afternoon;01:38:30;Sun;Mar
+809892;Gauteng;male;black;27;CNN;Adult;2016/03/06;18:24:00;Afternoon;01:31:58;Sun;Mar
+809892;Gauteng;male;black;27;SuperSport Blitz;Adult;2016/03/06;18:30:00;Afternoon;01:32:04;Sun;Mar
+809892;Gauteng;male;black;27;Africa Magic;Adult;2016/02/27;11:44:00;Morning;01:30:34;Sat;Feb
+809892;Gauteng;male;black;27;Africa Magic;Adult;2016/02/27;11:49:00;Morning;01:30:12;Sat;Feb
+809892;Gauteng;male;black;27;Channel O;Adult;2016/03/09;17:51:00;Afternoon;01:32:30;Wed;Mar
+860451;Western Cape;male;None;112;CNN;Old_Age;2016/03/11;09:21:00;Morning;01:30:44;Fri;Mar
+772680;Gauteng;male;black;25;Channel O;Adult;2016/02/04;18:05:00;Afternoon;01:30:09;Thu;Feb
+772680;Gauteng;male;black;25;kykNET;Adult;2016/01/31;20:21:00;Night;01:30:51;Sun;Jan
+772680;Gauteng;male;black;25;Cartoon Network;Adult;2016/01/31;18:41:00;Afternoon;01:31:06;Sun;Jan
+809924;Western Cape;male;black;52;Boomerang;Adult;2016/02/19;12:04:00;Midday;01:30:34;Fri;Feb
+809924;Western Cape;male;black;52;Boomerang;Adult;2016/02/19;11:40:00;Morning;01:30:28;Fri;Feb
+809924;Western Cape;male;black;52;Supersport Live Events;Adult;2016/02/19;10:30:00;Morning;01:31:56;Fri;Feb
+809924;Western Cape;male;black;52;CNN;Adult;2016/01/21;21:04:00;Night;01:35:11;Thu;Jan
+809924;Western Cape;male;black;52;SuperSport Blitz;Adult;2016/01/15;12:35:00;Midday;01:30:10;Fri;Jan
+809924;Western Cape;male;black;52;CNN;Adult;2016/01/23;18:46:00;Afternoon;01:47:58;Sat;Jan
+809924;Western Cape;male;black;52;CNN;Adult;2016/01/05;18:08:00;Afternoon;01:36:03;Tue;Jan
+809924;Western Cape;male;black;52;Africa Magic;Adult;2016/01/21;21:09:00;Night;01:31:49;Thu;Jan
+809924;Western Cape;male;black;52;Boomerang;Adult;2016/03/25;20:59:00;Night;01:32:02;Fri;Mar
+893450;Gauteng;male;black;33;Supersport Live Events;Adult;2016/03/19;22:44:00;Night;01:30:00;Sat;Mar
+893450;Gauteng;male;black;33;Trace TV;Adult;2016/03/26;18:50:00;Afternoon;01:30:27;Sat;Mar
+867215;Limpopo;male;indian_asian;38;Boomerang;Adult;2016/03/30;10:44:00;Morning;01:34:24;Wed;Mar
